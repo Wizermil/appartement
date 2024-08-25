@@ -270,10 +270,11 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [northern buddy](https://www.nedgis.com/en/products/wall-light-buddy-wall-white-led-l12cm-h17cm-northern-lighting)
     * [fermliving ruuvi](https://fermliving.com/products/ruuvi-lamp-blackened-iron)
     * [muuto beam](https://www.muuto.com/product/Beam-Table-Lamp--p2170/p2170/)
-    * [louis poulsen silverback](https://www.louispoulsen.com/en/catalog/professional/architectural-lighting/surface/silverback-ceilingwall?v=91617-5743157053-01)
+    * [Louis Poulsen silverback](https://www.louispoulsen.com/en/catalog/professional/architectural-lighting/surface/silverback-ceilingwall?v=91617-5743157053-01)
     * [spacecph lucca](https://spacecph.dk/lucca-for-tradition/)
     * [cvl calee](https://www.cvl-luminaires.fr/product/calee-applique/)
-    * [louis poulsen njp](https://www.louispoulsen.com/fr-be/catalog/private/lampes-de-table/njp-table?v=91648-5744164744-01)
+    * [Louis Poulsen njp](https://www.louispoulsen.com/fr-be/catalog/private/lampes-de-table/njp-table?v=91648-5744164744-01)
+    * [Verner Panton flowerpot](https://www.andtradition.com/products/flowerpot-vp12)
     * [disderot j13](https://disderot.com/en/produit/lampe-j13/)
     * [sammode g50](https://studio.sammode.com/en/product/luminaires/g50/)
     * [Wever & Ducre](https://www.weverducre.com)
@@ -451,7 +452,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [hexcal](https://www.hexcal.com/products/hexcal-studio)
     * bureau
       * [gobeflo](https://gobeflo.com)
-      * [Carl Hansen](https://www.carlhansen.com/en/en/collection/desks/ch110/desk-190-x-95-oak-oil-stainless/variant/6738)
+      * [artek kaari](https://www.artek.fi/en/products/kaari-desk)
+      * [Carl Hansen pk52](https://www.carlhansen.com/en/es/collection/tables-desks/desks/pk52/professor-desk-185-x-85-oak-oil-ral-9005-black/variant/7749)
       * [diy #1](https://www.youtube.com/watch?v=zCV4H2av9cI)
       * [diy #2](https://www.youtube.com/watch?v=bpgozHY2udQ)
       * [diy #3](https://www.youtube.com/watch?v=FLZBU59HC4M)
@@ -471,6 +473,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [tohaa design](https://tohaadesign.com/eu/fr/)
     * lave main
       * [bleu provence](https://bleuprovence.it/fr/product/serie-truecolors-truecolors-lavabo-small/)
+      * [beton par nature](https://betonparnature.fr/en/collections/vasques-beton/products/lave-mains-beton-charismatique?variant=48205937803599)
+    * parfum
+      * [lelabo santal 26](https://www.lelabofragrances.com/santal-26-160.html?size=100ml)
   * porte
     * [elezio](https://www.elezio.fr/elezio-porte-sur-charnieres)
     * [eclisse](https://www.eclisse.fr/fr/produits/collection/classiques/porte-coulissante-acoustique-unique-32-db)
