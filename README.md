@@ -381,6 +381,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [simplehuman](https://www.simplehuman.fr)
     * [diy #1](https://www.youtube.com/watch?v=0kdv9ZMxQjU)
     * [bora cooktop](https://www.bora.com/en-int/cooktop-extractor-systems/professional-3-0)
+    * [cosentino dekton](https://www.cosentino.com/fr-fr/dekton)
     * robot
       * [eubiq electric rail](https://www.eubiqfrance.com/goulotte-electrique-encastrable-rh2-c2x33087849)
       * [xbloom coffee](https://xbloom.com/)
@@ -394,6 +395,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [mauviel](https://www.mauviel-boutique.com)
       * [caraway](https://www.carawayhome.com/products/cookware-sets/?color=sage)
       * [xtrema](https://xtrema.com/products/signature-skillet?variant=42048549355714)
+      * eau gazeuse
+        * [aarke](https://fr.aarke.com)
       * mug
         * [ono mao](https://onomao.com/en-fr/collections/mugs-cups)
         * [serax](https://serax.com/products/mug-alabaster-dune)
@@ -473,6 +476,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [vaultx zip binder](https://eu.vaultx.com/collections/card-binders/products/12-pocket-exo-tec-zip-binder)
     * lampe
       * [tangram aether](https://tangramfactory.com/aether/en/)
+    * tapis
+      * [luffy enfant](https://www.instagram.com/reel/C_OLKjLI6tY/?igsh=MXZjZDVkdHRucW52OA%3D%3D)
   * sol
     * [design parquet](https://www.designparquet.com/parquets)
     * [torchio](https://www.torchio.fr/produits/carrelage-886.html)
@@ -485,8 +490,14 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * lave main
       * [bleu provence](https://bleuprovence.it/fr/product/serie-truecolors-truecolors-lavabo-small/)
       * [beton par nature](https://betonparnature.fr/en/collections/vasques-beton/products/lave-mains-beton-charismatique?variant=48205937803599)
+    * robinet
+      * [toto robinet auto](https://eu.toto.com/fr/produits/robinets)
+    * savon
+      * [le labo basil](https://www.lelabofragrances.com/hand-soap-640.html?size=500ml)
     * parfum
       * [lelabo santal 26](https://www.lelabofragrances.com/santal-26-160.html?size=100ml)
+      * [diptyque baies](https://www.diptyqueparis.com/fr_fr/p/pour-la-maison/diffuseurs/diffuseurs-electriques/cartouche-baies.html)
+      * [diptyque diffuseur electrique](https://www.diptyqueparis.com/fr_fr/p/pour-la-maison/diffuseurs/diffuseurs-electriques/diffuseur-electrique-mural.html)
     * distributeur papier
       * [reuter viverso](https://www.reuter.com/en-fr/viverso-xwall-large-recessed-toilet-module-w-185-h-740-d-150-mm-hinged-left-black-a1140554.php)
   * porte
@@ -505,7 +516,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [swiss](https://commerce.sbb.ch/fr/horloges-de-gare/horloges-murales.html?product_list_order=price)
   * tapis
     * [layered](https://layeredinterior.com/shop?funk2=startsida&funk=inst_val_sprak&Valuta_ID=EUR)
-  * sale de bain
+  * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
     * [betonparnature](https://betonparnature.fr/en)
     * [Jacob Delafon](https://www.jacobdelafon.com/showering/shower-trays)
@@ -514,6 +525,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [tres](https://www.tresgriferia.com/shower-technology-fr)
     * [sauna](https://www.sauna-hammam.fr/4-sauna-vapeur)
     * [vasque](https://www.cedeo.fr/p/sanitaire/plan-de-toilette-zao-avec-double-vasque-120-cm-beton-hpl-A7309177)
+    * [viega](https://www.viega.fr/fr/produits/themas/visign.html)
+    * [riluxa](https://riluxa.com)
   * chauffage
     * [qalway](https://qalway.com/en/product/radiateur-numerique)
     * [intuis](https://intuis.fr/signature/produit/chauffage-electrique/keramos-nativ/terre-de-mars)
@@ -526,6 +539,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [sansevieria](https://www.maplantemonbonheur.fr/le-sansevieria)
   * buanderie
     * [steigen](https://www.steigen.com.sg)
+    * lessive
+      * [kerzon super frais](https://www.kerzon.paris/fr/lessive-multi-taches/74-super-frais-3700962902127.html)
   * papier peint
     * [slate lite](https://www.slatelite.fr)
     * [b stone](https://b-stone.fr)
@@ -676,6 +691,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [atelier floky](https://www.atelierfloky.com)
     * [atelier 1053](https://atelier1053.com)
     * [georges furniture](http://georgesfurniture.fr)
+    * [atelier perche](https://atelier-perche.com)
+    * [mon petit marteau](https://monpetitmarteau.com)
   * isolation thermique
     * [steico](https://www.steico.com/fr)
     * [matgreen](https://matgreen.eu/gamme)
@@ -755,6 +772,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Lego](https://www.elledecor.com/life-culture/fun-at-home/a39694345/lego-flower-collection-orchid-succulents)
     * [2mé](https://www.artsper.com/be/artistes-contemporains/france/87657/2me)
     * [Sam Yang](https://www.inprnt.com/gallery/samdoesarts/)
+    * [Lois van Baarle](https://www.inprnt.com/gallery/loish/)
     * [Jochen Muehlenbrin](https://www.jochen-muehlenbrink.com/works/)
     * [David Ambarzumjan](https://david-ambarzumjan.com)
     * [art of ping pong](https://theartofpingpong.co.uk/collections/artbats)
@@ -781,9 +799,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Teenage Engineering](https://teenage.engineering)
     * [Felix Hernandez](https://www.hernandezdreamphography.com/things)
     * [Francisco Fonsca](https://www.etsy.com/shop/FranciscoFonscaShop?load_webview=1&bid=IYWghFrnzXJ2IXoJ4AIM4yoXhJgH)
+    * [Yay Abe](https://www.yayabe.store)
     * [BYCMP](https://www.bycparker.com)
     * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
     * [Leblon Delienne](https://www.leblon-delienne.com/en/figurines/130-2392-snoopy-sun-27-cm-3700408920883.html#/33-color-black_white)
+    * [Guido Llordi](https://llordi.com.ar/productos/serie-inmerso-120x80cm/)
+    * [Brendan Cullen Benson](https://www.icanvas.com/canvas-art-prints/artist/brendan-cullen-benson?product=canvas&sort=popular)
     * [Thomas Gromas](https://www.thomas-gromas.be)
     * [Mona Finden](https://www.monafinden.com)
     * [Franck Lamboley](https://www.lorient-art-galerie.com/artiste/franck-lamboley)
