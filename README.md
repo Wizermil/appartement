@@ -789,6 +789,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Warrick Wong](https://www.warrickwong.com)
     * [Christopher Uminga](https://uminga720.storenvy.com/)
     * [Iain Hurfer](https://www.hurferhandpainted.com)
+    * [Kevin Boudreau](https://www.kbooart.com/?page=1&limit=30&sort_by=shop_all_order&sort_order=asc)
     * [Essential Sequential](https://essentialsequential.com)
     * [TenHundred](https://tenhundredart.com/murals-1)
     * [Postera](https://postera.art)
