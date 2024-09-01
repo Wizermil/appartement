@@ -377,30 +377,36 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Cabin Square](https://vipp.com/en/products/cabin-square-table-w-stone-top)
     * [Longplane](https://www.cassina.com/gb/en/products/longplane.html#481-longplane_156491)
   * cuisine
-    * [snaidero](https://www.snaidero.com/en/kitchen/joy)
-    * [bulthaup](https://bulthaup.com/en)
-    * [franke](https://www.franke.com/fr/fr/home.html)
     * [Poggen Pohl](https://www.poggenpohl.com)
     * [SieMatic](https://www.siematic.com/fr)
-    * [Carrara Marble](https://en.wikipedia.org/wiki/Carrara_marble)
-    * [Estremoz Marble](https://www.estremozmarble.com)
-    * [aarke](https://fr.aarke.com/collections/all-products)
+    * [bulthaup](https://bulthaup.com/en)
+    * [snaidero](https://www.snaidero.com/en/kitchen/joy)
     * [MH Cuisines](https://www.mh-cuisines.fr/nos-magasins)
-    * [vzug](https://www.vzug.com)
-    * [subzero/wolf](https://subzero-wolf.fr)
-    * [neff](https://www.neff-home.com/fr)
-    * [simplehuman](https://www.simplehuman.fr)
     * [diy #1](https://www.youtube.com/watch?v=0kdv9ZMxQjU)
-    * [bora cooktop](https://www.bora.com/en-int/cooktop-extractor-systems/professional-3-0)
-    * [cosentino dekton](https://www.cosentino.com/fr-fr/dekton)
-    * robot
+    * electromenager
+      * [liebherr](https://home.liebherr.com/fr/fra/products/produits.html)
+      * [asko](https://fr.asko.com)
+      * [franke](https://www.franke.com/fr/fr/home.html)
+      * [neff](https://www.neff-home.com/fr)
+      * [vzug](https://www.vzug.com)
+      * [subzero/wolf](https://subzero-wolf.fr)
+    * plan de travail
+      * [cosentino dekton](https://www.cosentino.com/fr-fr/dekton)
+      * [Carrara Marble](https://en.wikipedia.org/wiki/Carrara_marble)
+      * [Estremoz Marble](https://www.estremozmarble.com)
+    * plaque de cuisson
+      * [bora cooktop](https://www.bora.com/en-int/cooktop-extractor-systems/professional-3-0)
+    * electricite
       * [eubiq electric rail](https://www.eubiqfrance.com/goulotte-electrique-encastrable-rh2-c2x33087849)
+    * robot
       * [xbloom coffee](https://xbloom.com/)
       * [us-tronic transfo 100V](https://us-tronic.com/collections/transformateurs-100-volts/products/transformateur-pour-utiliser-des-appareils-japonais-consommant-jusqua-1500-watts-1)
       * [zojirushi rice cooker](https://www.zojirushi.co.jp/syohin/rice/ricecooker/nw-fb/#container)
       * [kettle](https://fellowproducts.com/products/corvo-ekg-pro-electric-kettle-studio-edition?pr_prod_strat=e5_desc&pr_rec_id=bddfafd5e&pr_rec_pid=7169135738980&pr_ref_pid=6974325129316&pr_seq=uniform&variant=41591159423076)
       * [kitchenaid](https://www.kitchenaid.fr/robots-patissiers/midi/859702301230/robot-patissier-a-tete-inclinable-48l-artisan-premium-5ksm185ps-pomme-damour)
       * [smeg toaster](https://www.smeg.com/products/TSF01BLEU)
+    * eau gazeuse
+      * [aarke](https://fr.aarke.com/collections/all-products)
     * ustensile
       * [cristel](https://www.cristel.com/fr/casseroles)
       * [mauviel](https://www.mauviel-boutique.com)
@@ -419,7 +425,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Japanese Steel SG2 / SGPS / R2](https://www.couteauxduchef.com/blog/acier-sg2-sgps-couteaux-ultra-tranchants-n346)
       * couverts
         * [John Pawson](https://hauslondon.com/products/cutlery-set-by-john-pawson-for-when-objects-work)
-        * [Maarten Baptist](https://maartenbaptist.com/product/36-piece-cutlery-set)
+    * poubelle
+      * [simplehuman](https://www.simplehuman.fr)
   * purificateur d'air
     * [dyson](https://www.dyson.fr/traitement-de-l-air/purificateurs-ventilateurs/purifier-big-quiet-formaldehyde-bp03/nickel-bleu-prusse-bp03)
   * aspirateur
