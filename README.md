@@ -320,6 +320,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [ibfor](https://www.ibfor.com/en)
     * [hay](https://www.hay.dk)
     * [tikamoon](https://www.tikamoon.com)
+  * console
+    * [rawbrown](https://www.rawbrown.com)
   * canapé
     * [Jasper Morrison](https://www.vitra.com/fr-be/product/details/soft-modular-sofa-3)
     * [Berto Modular](https://www.bertosalotti.fr/canapes_modulables)
@@ -355,6 +357,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Le Briand](https://le-briand.fr)
       * [tempur](https://fr.tempur.com)
       * [emma](https://www.emma.fr/matelas/)
+  * dressing
+    * poignee
+      * [minimaro](https://www.minimaro.de/en)
+      * [shopmeraki](https://shopmeraki.co/en-fr)
   * table
     * [alabama](https://www.devinanais.com/en/prodotto/tavolo-alabama)
     * [Portofino](https://www.paolalenti.it/it/prodotto/portofino-tavolo-2)
@@ -395,8 +401,6 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [mauviel](https://www.mauviel-boutique.com)
       * [caraway](https://www.carawayhome.com/products/cookware-sets/?color=sage)
       * [xtrema](https://xtrema.com/products/signature-skillet?variant=42048549355714)
-      * eau gazeuse
-        * [aarke](https://fr.aarke.com)
       * mug
         * [ono mao](https://onomao.com/en-fr/collections/mugs-cups)
         * [serax](https://serax.com/products/mug-alabaster-dune)
@@ -463,12 +467,16 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [mini fridge](https://roccofridge.com)
     * [hexcal](https://www.hexcal.com/products/hexcal-studio)
     * bureau
-      * [gobeflo](https://gobeflo.com)
+      * [aum](https://www.aum-world.com/products/pietement-table-de-reunion-assis-debout-electrique-reglable-en-hauteur-quad)
+      * [flexispot e7q](https://www.flexispot.fr/bureau-assis-debout-a-4-pieds-e7q)
       * [artek kaari](https://www.artek.fi/en/products/kaari-desk)
       * [Carl Hansen pk52](https://www.carlhansen.com/en/es/collection/tables-desks/desks/pk52/professor-desk-185-x-85-oak-oil-ral-9005-black/variant/7749)
       * [diy #1](https://www.youtube.com/watch?v=zCV4H2av9cI)
       * [diy #2](https://www.youtube.com/watch?v=bpgozHY2udQ)
       * [diy #3](https://www.youtube.com/watch?v=FLZBU59HC4M)
+      * us only :(
+        * [gobeflo](https://gobeflo.com)
+        * [deskhaus apex pro max](https://desk.haus/products/apex-pro-max)
     * rangement collection
       * [bcw 3200 cards](https://www.bcwsupplies.com/3200-card-storage-box-full-lid)
       * [bcw comic book bags](https://www.bcwsupplies.com/resealable-current-comic-book-bags)
@@ -554,6 +562,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [home assistant](https://www.home-assistant.io/)
       * [knx](https://en.wikipedia.org/wiki/KNX)
       * [gvs](https://www.gvssmart.com/)
+      * [basalte](https://www.basalte.be)
       * capteur
         * [apollo msr2](https://apolloautomation.com/products/msr-2)
         * [aqara fp2](https://www.aqara.com/eu/product/presence-sensor-fp2/)
@@ -748,6 +757,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [kelogsloops](https://kelogsloops.com/watercolor)
     * [clogtwo](https://www.behance.net/clogtwo)
     * [Kalle Hellzen](https://atelierkallehellzen.com)
+    * [yellowkorner](https://www.yellowkorner.com/fr/photographies-dart/voyage/)
     * [Luciteria Science](https://www.luciteria.com/metal-cubes)
     * [Comrade](https://www.comrade-berlin.com)
     * [Courtney Autumn Martin](https://www.camartinart.com)
@@ -765,6 +775,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Farid Rueda](https://www.instagram.com/farid_rueda/?hl=en)
     * [Henry Blache](https://henry-blache.com/peintures-illustrations/)
     * [Remi Cierco](https://www.remicierco.com/?page_id=114)
+    * [atelier 58](https://www.atelier-58.nl/portfolio/)
     * [mural wood sculpture](https://artdesigna.co/fr/products/terre-mere-bois-premium-fait-main-sculpture-murale-edition-limitee?ad_id=120210838244770247&campaign_id=120210838244780247&variant=43629133594877)
     * [Sylvain Piget](https://www.pigetart.com)
     * [artdesigna](https://artdesigna.co/fr/products/tokyo-painting-colorful-glass-wall-art?variant=48303090663762&campaign_id=120210838244780247&ad_id=120210838244770247)
@@ -775,6 +786,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Lois van Baarle](https://www.inprnt.com/gallery/loish/)
     * [Jochen Muehlenbrin](https://www.jochen-muehlenbrink.com/works/)
     * [David Ambarzumjan](https://david-ambarzumjan.com)
+    * [Isabella Agosti](https://www.inprnt.com/gallery/isabella_agosti/)
     * [art of ping pong](https://theartofpingpong.co.uk/collections/artbats)
     * [Matt Shlian](https://www.mattshlian.com/2024)
     * [Plaster Art](https://yourmoderndesigns.com/collections/plaster-art-collection)
@@ -814,6 +826,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Julien Durix](https://juliendurix.com/en/collections/oeuvres-limitees)
     * [nichecanvas](https://nichecanvas.com)
     * [wallart](https://wallart-studio.shop)
+    * [metaleks _artsopolis](https://metaleks.com/products/ukiyo-artwok-by-artsopolis)
+    * [displate Ann Havbo ia](https://displate.com/eightbitstrana?art=6372afa07345f)
     * [crisco](https://criscoart.com/ghost-glow-prints)
     * [Hiroshi Sugimoto](https://www.sugimotohiroshi.com/artworks)
     * [Paiheme](https://paihemestudio.com)
