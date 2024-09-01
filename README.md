@@ -280,6 +280,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Verner Panton flowerpot](https://www.andtradition.com/products/flowerpot-vp12)
     * [disderot j13](https://disderot.com/en/produit/lampe-j13/)
     * [sammode g50](https://studio.sammode.com/en/product/luminaires/g50/)
+    * [arik levy ghost](https://ariklevy.fr/design/lighting/ghost-for-vibia)
     * [Wever & Ducre](https://www.weverducre.com)
     * [onfale](https://www.artemide.com/fr/subfamily/21586/onfale)
     * [prado](https://prado.eu)
@@ -304,6 +305,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [sammode g13](https://studio.sammode.com/produit/luminaires/g13-ceiling/)
     * [hestia+co](https://hestiaco.co.uk)
     * [l&s](https://products.ls-light.com/en/kristal)
+    * ambiante
+      * [light cognitive](https://www.lightcognitive.com/)
+      * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
+      * [Leslie Nooteboom Komorebi](https://leibal.com/lighting/komorebi/)
   * enseigne décoration
     * [artmeta](https://www.artmeta.fr)
     * [Ligne Roset](https://www.ligne-roset.com/fr)
@@ -406,6 +411,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [serax](https://serax.com/products/mug-alabaster-dune)
         * [monoware](https://www.monoware.com/products/brown-stoneware-ceramic-terra-coffee-tea-mugs)
         * [valerie_objects](https://valerie-objects.com/products/mug-light-grey-inner-circle)
+        * [Yuko Nishikawa](https://www.yukonishikawa.com/shop-tableware/light-grey-white-reading-mug)
       * couteau
         * [Joonetsu](https://joonetsuknives.com/en/acceuil-english)
         * [Kama-Asa](https://kama-asa.co.jp/en-eu)
