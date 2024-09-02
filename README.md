@@ -407,6 +407,11 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [smeg toaster](https://www.smeg.com/products/TSF01BLEU)
     * eau gazeuse
       * [aarke](https://fr.aarke.com/collections/all-products)
+    * eau potable (reverse osmosis)
+      * [bluewater](https://www.bluewatergroup.com)
+      * [waterdrop](https://www.waterdropfilter.eu/collections/remineralize-reverse-osmosis-systems/products/remineralization-reverse-osmosis-system-wd-g3p800)
+      * [culligan premium](https://www.culligan.fr/produits/filtres-et-osmoseurs-eau/culligan-premium/)
+      * [aquaphor](https://aquaphor.com/fr-fr/reverse-osmosis/ro-101s)
     * ustensile
       * [cristel](https://www.cristel.com/fr/casseroles)
       * [mauviel](https://www.mauviel-boutique.com)
@@ -696,7 +701,6 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [vulcan](https://vulcan-anticalcaire.fr)
     * [aquabion](https://aquabion-distribution.com)
     * [calceo](https://www.calceo-anticalcaire.fr/gamme-calceo)
-    * [bluewater](https://www.bluewatergroup.com)
     * [cintropur](https://www.cintropur.com/fr)
     * [socla](https://socla.com/site_Fr/desbordes/desbordes.htm)
   * menuiserie
