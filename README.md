@@ -423,8 +423,6 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Kama-Asa](https://kama-asa.co.jp/en-eu)
         * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
         * [Japanese Steel SG2 / SGPS / R2](https://www.couteauxduchef.com/blog/acier-sg2-sgps-couteaux-ultra-tranchants-n346)
-      * couverts
-        * [John Pawson](https://hauslondon.com/products/cutlery-set-by-john-pawson-for-when-objects-work)
     * poubelle
       * [simplehuman](https://www.simplehuman.fr)
   * purificateur d'air
