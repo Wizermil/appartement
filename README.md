@@ -146,6 +146,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Piero Lissoni](https://www.lissoniandpartners.com/en/interiors)
     * [arde](https://arde.dk)
     * [Florence Knoll](https://fr.wikipedia.org/wiki/Florence_Knoll)
+    * [Dieter Rams](https://en.m.wikipedia.org/wiki/Dieter_Rams)
     * [Gabriele Salvatori](https://www.salvatoriofficial.com/en/gb/)
     * [Gabriele Buratti](https://www.burattiarchitetti.it)
     * [Matteo Nunziati](https://www.matteonunziati.com/product)
@@ -382,6 +383,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [bulthaup](https://bulthaup.com/en)
     * [snaidero](https://www.snaidero.com/en/kitchen/joy)
     * [MH Cuisines](https://www.mh-cuisines.fr/nos-magasins)
+    * [fropt](https://fropt.com/fr)
     * [diy #1](https://www.youtube.com/watch?v=0kdv9ZMxQjU)
     * electromenager
       * [liebherr](https://home.liebherr.com/fr/fra/products/produits.html)
@@ -440,7 +442,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [sharky](https://www.kristalia.it/en/products/sharky/#modal-sharky)
     * [curve](https://www.poliform.it/en/products/curve)
   * chaise de salon
-    * [Bask S](https://www.paolalenti.it/en/prodotto/basks-armchair)
+    * [Paola Lenti Bask S](https://www.paolalenti.it/en/prodotto/basks-armchair)
+    * [Antonio Citterio abc](https://www.flexform.it/en/products/indoor/all-products/armchairs/abc)
     * [Mario Capasa Bolla](https://mariocapasa.com/products/bolla-lounge-chair?variant=45487301361823)
     * [Togo](https://www.ligne-roset.com/fr/p/fauteuils/chauffeuse-togo-1177)
     * [cini boeri](https://www.knoll-int.com/home/by-designer/contemporary-designers/cini-boeri/cini-boeri-collection)
@@ -599,9 +602,11 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * processeur video
       * [madVR Envy Core](https://madvrenvy.com/)
     * projecteur
+      * info
+        * [distance ecran](https://www.projectorcentral.com/projection-calculator-pro.cfm)
+      * [jvc nz7](https://fr.jvc.com/video/dila/DLA-NZ7B)
       * [sony xw5000](https://pro.sony/fr_CH/products/4k-home-cinema-projectors/vpl-xw5000es)
       * [jvc nz800](https://fr.jvc.com/video/dila/DLA-NZ800BE/)
-      * [jvc nz7](https://fr.jvc.com/video/dila/DLA-NZ7B)
       * [hisense c1](https://hisense.fr/produit/smart-mini-projecteur-focale-ajustable-65-300-c1)
       * [valerion VisionMaster](https://www.valerion.com)
     * support motorize projecteur
@@ -829,6 +834,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Francisco Fonsca](https://www.etsy.com/shop/FranciscoFonscaShop?load_webview=1&bid=IYWghFrnzXJ2IXoJ4AIM4yoXhJgH)
     * [Yay Abe](https://www.yayabe.store)
     * [BYCMP](https://www.bycparker.com)
+    * [Sawai Kenta](https://s-kenken.com)
     * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
     * [Leblon Delienne](https://www.leblon-delienne.com/en/figurines/130-2392-snoopy-sun-27-cm-3700408920883.html#/33-color-black_white)
     * [Guido Llordi](https://llordi.com.ar/productos/serie-inmerso-120x80cm/)
