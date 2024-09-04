@@ -658,6 +658,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [xtremscreen](https://www.xtremscreen.com/ecrans/elegence-in-ceiling)
     * tv
       * [lg g4](https://www.lg.com/fr/tv-barres-de-son/oled-evo/lg-oled77g45lw-oled-tv-g4-4k/)
+      * [samsung s95d](https://www.samsung.com/fr/tvs/oled-tv/s95d-77-inch-oled-4k-tizen-os-smart-tv-tq77s95datxxc/)
+      * [sony bravia 9](https://www.sony.fr/bravia/products/bravia-9)
     * rack serveur
       * [startech 32U](https://www.startech.com/en-fr/server-management/rk3236bkf)
       * [eaton 5PX G2 ups](https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-5px-g2.html)
@@ -691,6 +693,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [fermacell](https://www.fermacell.fr/fr/presentation-generale-plaques-de-sol-fermacell)
     * [snic](https://www.snic-liege.com/type/isolation-liege-plancher-chauffant)
   * traitement acoustique
+    * info
+      * [info #1](https://www.youtube.com/watch?v=G90ekzfA92Y&list=PLes6453-4e4YutZxrWoU-3Pn55HsdmqLK)
+      * [info #2](https://www.youtube.com/watch?v=dy-k82nk4LQ)
+      * [info #3](https://www.youtube.com/watch?v=G0ekssXX7rE)
+      * [diy #1](https://www.youtube.com/watch?v=DrPvXt5Anz4&t=17s)
+      * [rt60](https://rt60.buzzi.space)
     * [gik acoustics](https://gikacoustics.fr)
     * [vicoustic](https://vicoustic.com)
     * [iso acoustics](https://isoacoustics.com)
@@ -704,11 +712,6 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [arturel](https://arturel.fr/?shpxid=e157cf87-97c1-46f4-be96-7086d02b0608)
     * [curtain](https://www.showroomaudio.com/shop/traitement-acoustique/panneaux-absorbants/moondream-rideau-phonique-tons-bleu)
     * [acoustic fabric](https://www.akustikstoff.com/fr/Tissu-acoustique-Standard/Tissu-acoustique-vendu-au-metre-largeur-150-cm::750.html)
-    * [diy #1](https://www.youtube.com/watch?v=DrPvXt5Anz4&t=17s)
-    * [info #1](https://www.youtube.com/watch?v=G90ekzfA92Y&list=PLes6453-4e4YutZxrWoU-3Pn55HsdmqLK)
-    * [info #2](https://www.youtube.com/watch?v=dy-k82nk4LQ)
-    * [info #3](https://www.youtube.com/watch?v=G0ekssXX7rE)
-    * [rt60](https://rt60.buzzi.space)
   * traitement de l'eau
     * [vulcan](https://vulcan-anticalcaire.fr)
     * [aquabion](https://aquabion-distribution.com)
