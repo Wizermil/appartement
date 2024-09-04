@@ -432,6 +432,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Japanese Steel SG2 / SGPS / R2](https://www.couteauxduchef.com/blog/acier-sg2-sgps-couteaux-ultra-tranchants-n346)
     * poubelle
       * [simplehuman](https://www.simplehuman.fr)
+      * [gollinucci poubelle encastrable](https://www.gollinucci.com/fr/produits/ligne-561)
+      * [donHierro](https://donhierro.com/fr/18-poubelles-tri-selectif)
+      * [ferm enkel](https://fermliving.fr/products/enkel-bin-cashmere)
+      * [hailo poubelle encastrable](https://www.hailo-shop.fr/475-poubelle-encastrable)
+      * [hailo pedale](https://www.hailo-shop.fr/poubelle/1601-ouverture-pedale-meuble-kick-go-3.html)
+      * [peka](https://peka.com/shop/fr/?plugin=dynamicsearch&filterPageType=shop&query=%2A&productsPerPage=42&filterKategorie1=Élimination%20des%20déchets&show_articles=1)
   * purificateur d'air
     * [dyson](https://www.dyson.fr/traitement-de-l-air/purificateurs-ventilateurs/purifier-big-quiet-formaldehyde-bp03/nickel-bleu-prusse-bp03)
   * aspirateur
@@ -796,6 +802,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Henry Blache](https://henry-blache.com/peintures-illustrations/)
     * [Remi Cierco](https://www.remicierco.com/?page_id=114)
     * [atelier 58](https://www.atelier-58.nl/portfolio/)
+    * [Nicholas Hernandez](https://www.nickhartist.com)
     * [mural wood sculpture](https://artdesigna.co/fr/products/terre-mere-bois-premium-fait-main-sculpture-murale-edition-limitee?ad_id=120210838244770247&campaign_id=120210838244780247&variant=43629133594877)
     * [Sylvain Piget](https://www.pigetart.com)
     * [artdesigna](https://artdesigna.co/fr/products/tokyo-painting-colorful-glass-wall-art?variant=48303090663762&campaign_id=120210838244780247&ad_id=120210838244770247)
@@ -831,9 +838,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Joel Lawrence](https://www.joelawrencesculpture.com/product-page/fisherman-with-cigarette-and-an-anchor-tattoo-no4-bronze)
     * [Teenage Engineering](https://teenage.engineering)
     * [Felix Hernandez](https://www.hernandezdreamphography.com/things)
-    * [Francisco Fonsca](https://www.etsy.com/shop/FranciscoFonscaShop?load_webview=1&bid=IYWghFrnzXJ2IXoJ4AIM4yoXhJgH)
     * [Yay Abe](https://www.yayabe.store)
+    * [Arsek Erase](https://arsekerase.bigcartel.com)
     * [BYCMP](https://www.bycparker.com)
+    * [Francisco Fonsca](https://www.etsy.com/shop/FranciscoFonscaShop?load_webview=1&bid=IYWghFrnzXJ2IXoJ4AIM4yoXhJgH)
     * [Sawai Kenta](https://s-kenken.com)
     * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
     * [Leblon Delienne](https://www.leblon-delienne.com/en/figurines/130-2392-snoopy-sun-27-cm-3700408920883.html#/33-color-black_white)
