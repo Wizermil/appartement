@@ -426,10 +426,11 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [valerie_objects](https://valerie-objects.com/products/mug-light-grey-inner-circle)
         * [Yuko Nishikawa](https://www.yukonishikawa.com/shop-tableware/light-grey-white-reading-mug)
       * couteau
+        * info
+          * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
+          * [Japanese Steel SG2 / SGPS / R2](https://www.couteauxduchef.com/blog/acier-sg2-sgps-couteaux-ultra-tranchants-n346)
         * [Joonetsu](https://joonetsuknives.com/en/acceuil-english)
         * [Kama-Asa](https://kama-asa.co.jp/en-eu)
-        * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
-        * [Japanese Steel SG2 / SGPS / R2](https://www.couteauxduchef.com/blog/acier-sg2-sgps-couteaux-ultra-tranchants-n346)
     * poubelle
       * [simplehuman](https://www.simplehuman.fr)
       * [gollinucci poubelle encastrable](https://www.gollinucci.com/fr/produits/ligne-561)
