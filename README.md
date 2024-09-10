@@ -331,6 +331,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [ibfor](https://www.ibfor.com/en)
     * [hay](https://www.hay.dk)
     * [tikamoon](https://www.tikamoon.com)
+    * [yamazaki](https://theyamazakihome-europe.com)
   * console
     * [rawbrown](https://www.rawbrown.com)
     * [moca](https://mocaline.com/product/framed/)
@@ -410,6 +411,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [bora cooktop](https://www.bora.com/en-int/cooktop-extractor-systems/professional-3-0)
     * electricite
       * [eubiq electric rail](https://www.eubiqfrance.com/goulotte-electrique-encastrable-rh2-c2x33087849)
+      * [goneo power track](https://fr.goneohome.eu/product-page/goneo-french-power-track)
     * robot
       * [xbloom coffee](https://xbloom.com/)
       * [us-tronic transfo 100V](https://us-tronic.com/collections/transformateurs-100-volts/products/transformateur-pour-utiliser-des-appareils-japonais-consommant-jusqua-1500-watts-1)
@@ -564,6 +566,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [eclisse](https://www.eclisse.fr/fr/produits/complement/plinthe-syntesis)
   * horloge
     * [swiss](https://commerce.sbb.ch/fr/horloges-de-gare/horloges-murales.html?product_list_order=price)
+    * [braun](https://de.braun-clocks.com/collections/analogue-clocks/products/bc26-braun-analogue-european-radio-controlled-wall-clock-black)
+  * reveil
+    * [Loftie Clock](https://byloftie.com/products/loftie?srsltid=AfmBOoqA3Z-cn9SqzOZR116FlbnQ03qv1kjywtS8YP1e8s4pzXgELwzr)
   * tapis
     * [layered](https://layeredinterior.com/shop?funk2=startsida&funk=inst_val_sprak&Valuta_ID=EUR)
   * salle de bain
@@ -841,12 +846,15 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Isabella Agosti](https://www.inprnt.com/gallery/isabella_agosti/)
     * [art of ping pong](https://theartofpingpong.co.uk/collections/artbats)
     * [Matt Shlian](https://www.mattshlian.com/2024)
+    * [Helen Silva Chimura](https://www.instagram.com/mandalandoequilibrio)
     * [Vlad Pocol](https://www.vladpocol.com)
     * [Plaster Art](https://yourmoderndesigns.com/collections/plaster-art-collection)
     * [Ruben Benjamin](https://www.ruben-benjamin.com)
     * [David Nott](https://www.davidnottdesign.com)
     * [arturel](https://arturel.fr/products/wave-long?variant=43391803228387&campaign_id=120207643137850661&ad_id=120211164530160661&shpxid=60e5c30e-6545-4409-a2ad-c222d312ec7f)
     * [Paul Anton](https://www.antonaiguabella.com/tectonias)
+    * [Liam Roberts](https://www.liamrobertsdesign.co.uk/art-shop)
+    * [Danny Jarjour](https://dannyjarjour.com)
     * [isakov](https://www.isakov.de/canvas)
     * [RBInterior](https://www.rbinterior.nl/en/art)
     * [Kübra Erguvan](https://www.artbykuebra.com/en)
@@ -860,6 +868,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Iain Hurfer](https://www.hurferhandpainted.com)
     * [Kevin Boudreau](https://www.kbooart.com/?page=1&limit=30&sort_by=shop_all_order&sort_order=asc)
     * [Essential Sequential](https://essentialsequential.com)
+    * [manz](https://www.instagram.com/_mr.manz_)
     * [TenHundred](https://tenhundredart.com/murals-1)
     * [Postera](https://postera.art)
     * [drool](https://drool-art.com/collections/prints?ad_id=6603250227006&campaign_id=6501421150006&page=2&retargetingAudience=new_customer)
@@ -889,11 +898,14 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [wallart](https://wallart-studio.shop)
     * [metaleks _artsopolis](https://metaleks.com/products/ukiyo-artwok-by-artsopolis)
     * [displate Ann Havbo ia](https://displate.com/eightbitstrana?art=6372afa07345f)
+    * [Viktoria Bondar](https://www.somuchart.store)
+    * [formworks](https://www.formworksstudio.co.uk)
     * [crisco](https://criscoart.com/ghost-glow-prints)
     * [Hiroshi Sugimoto](https://www.sugimotohiroshi.com/artworks)
     * [Paiheme](https://paihemestudio.com)
     * [Bomb Ink](https://bombink.thebase.in)
     * [Nicolas Krauss](https://nicolaskrauss.com)
+    * [Guilherme Asthma](https://www.behance.net/guilhermeasthma/projects)
     * [Keith Haring](https://en.wikipedia.org/wiki/Keith_Haring)
     * [EFX](https://efxcollectibles.com)
     * [SP Sabers](https://www.spsabers.com)
