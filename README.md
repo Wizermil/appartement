@@ -85,9 +85,9 @@
 
   * escalier
 
-    ||||
-    |:--:|:--:|:--:|
-    |![escalier #0](photo/etage0_02_escalier_0.jpeg)|![escalier #1](photo/etage0_02_escalier_1.jpeg)||
+    |||
+    |:--:|:--:|
+    |![escalier #0](photo/etage0_02_escalier_0.jpeg)|![escalier #1](photo/etage0_02_escalier_1.jpeg)|
 
   * cuisine
 
@@ -104,9 +104,9 @@
 
   * piece sous escalier
 
-    ||||
-    |:--:|:--:|:--:|
-    |![piece sous escalier #0](photo/etage0_05_sousescalier_0.jpeg)|![piece sous escalier #1](photo/etage0_05_sousescalier_1.jpeg)||
+    |||
+    |:--:|:--:|
+    |![piece sous escalier #0](photo/etage0_05_sousescalier_0.jpeg)|![piece sous escalier #1](photo/etage0_05_sousescalier_1.jpeg)|
 
   * couloir
 
@@ -116,9 +116,9 @@
 
   * salle de bain
 
-    ||||
-    |:--:|:--:|:--:|
-    |![salle de bain #0](photo/etage0_07_salledebain_0.jpeg)|![salle de bain #1](photo/etage0_07_salledebain_1.jpeg)||
+    |||
+    |:--:|:--:|
+    |![salle de bain #0](photo/etage0_07_salledebain_0.jpeg)|![salle de bain #1](photo/etage0_07_salledebain_1.jpeg)|
 
   * chambre
 
@@ -142,9 +142,9 @@
 
   * bureau
 
-    ||||
-    |:--:|:--:|:--:|
-    |![bureau #0](photo/etage1_01_bureau_0.jpeg)|![bureau #1](photo/etage1_01_bureau_1.jpeg)||
+    |||
+    |:--:|:--:|
+    |![bureau #0](photo/etage1_01_bureau_0.jpeg)|![bureau #1](photo/etage1_01_bureau_1.jpeg)|
 
   * chambre
 
@@ -162,16 +162,10 @@
 ## 3. plan
 
 * etage 0
-
-    ||
-    |:--:|
-    |![etage 0](plan/etage0.png)|
+  ![etage 0](plan/etage0.png)
 
 * etage 1
-
-    ||
-    |:--:|
-    |![etage 1](plan/etage1.png)|
+  ![etage 1](plan/etage1.png)
 
 ## 4. inspiration
 
