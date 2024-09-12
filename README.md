@@ -65,56 +65,111 @@
 
 ## 2. photo + video
 
-* [video appartement](https://youtu.be/u-QEz6omidc?si=lpIIQx8ClwW85394)
+[![video appartement](https://img.youtube.com/vi/u-QEz6omidc/0.jpg)](https://youtu.be/u-QEz6omidc?si=lpIIQx8ClwW85394)
+
 * etage 0
-  * [palier #0](photo/etage0_00_palier_0.jpeg)
-  * [palier #1](photo/etage0_00_palier_1.jpeg)
-  * [palier #2](photo/etage0_00_palier_2.jpeg)
-  * [entree #0](photo/etage0_01_entree_0.jpeg)
-  * [entree #1](photo/etage0_01_entree_1.jpeg)
-  * [entree #2](photo/etage0_01_entree_2.jpeg)
-  * [entree #3](photo/etage0_01_entree_3.jpeg)
-  * [escalier #0](photo/etage0_02_escalier_0.jpeg)
-  * [escalier #1](photo/etage0_02_escalier_1.jpeg)
-  * [cuisine #0](photo/etage0_03_cuisine_0.jpeg)
-  * [cuisine #1](photo/etage0_03_cuisine_1.jpeg)
-  * [cuisine #2](photo/etage0_03_cuisine_2.jpeg)
-  * [cuisine #3](photo/etage0_03_cuisine_3.jpeg)
-  * [salon #0](photo/etage0_04_salon_0.jpeg)
-  * [salon #1](photo/etage0_04_salon_1.jpeg)
-  * [salon #2](photo/etage0_04_salon_2.jpeg)
-  * [piece sous escalier #0](photo/etage0_05_sousescalier_0.jpeg)
-  * [piece sous escalier #1](photo/etage0_05_sousescalier_1.jpeg)
-  * [couloir #0](photo/etage0_06_couloir_0.jpeg)
-  * [couloir #1](photo/etage0_06_couloir_1.jpeg)
-  * [couloir #2](photo/etage0_06_couloir_2.jpeg)
-  * [salle de bain #0](photo/etage0_07_salledebain_0.jpeg)
-  * [salle de bain #1](photo/etage0_07_salledebain_1.jpeg)
-  * [chambre #0](photo/etage0_08_chambre_0.jpeg)
-  * [chambre #1](photo/etage0_08_chambre_1.jpeg)
-  * [chambre #2](photo/etage0_08_chambre_2.jpeg)
-  * [chambre #3](photo/etage0_08_chambre_3.jpeg)
-  * [wc #0](photo/etage0_08_wc_0.jpeg)
-  * [wc #1](photo/etage0_08_wc_1.jpeg)
-  * [wc #2](photo/etage0_08_wc_2.jpeg)
+  * palier
+
+    ||||
+    |:--:|:--:|:--:|
+    |![palier #0](photo/etage0_00_palier_0.jpeg) | ![palier #1](photo/etage0_00_palier_1.jpeg) | ![palier #2](photo/etage0_00_palier_2.jpeg)|
+
+  * entree
+
+    ||||
+    |:--:|:--:|:--:|
+    | ![entree #0](photo/etage0_01_entree_0.jpeg) | ![entree #1](photo/etage0_01_entree_1.jpeg) | ![entree #2](photo/etage0_01_entree_2.jpeg) |
+    | ![entree #3](photo/etage0_01_entree_3.jpeg)|||
+
+  * escalier
+
+    ||||
+    |:--:|:--:|:--:|
+    |![escalier #0](photo/etage0_02_escalier_0.jpeg)|![escalier #1](photo/etage0_02_escalier_1.jpeg)||
+
+  * cuisine
+
+    ||||
+    |:--:|:--:|:--:|
+    |![cuisine #0](photo/etage0_03_cuisine_0.jpeg)|![cuisine #1](photo/etage0_03_cuisine_1.jpeg)|![cuisine #2](photo/etage0_03_cuisine_2.jpeg)|
+    |![cuisine #3](photo/etage0_03_cuisine_3.jpeg)|||
+
+  * salon
+
+    ||||
+    |:--:|:--:|:--:|
+    |![salon #0](photo/etage0_04_salon_0.jpeg)|![salon #1](photo/etage0_04_salon_1.jpeg)|![salon #2](photo/etage0_04_salon_2.jpeg)|
+
+  * piece sous escalier
+
+    ||||
+    |:--:|:--:|:--:|
+    |![piece sous escalier #0](photo/etage0_05_sousescalier_0.jpeg)|![piece sous escalier #1](photo/etage0_05_sousescalier_1.jpeg)||
+
+  * couloir
+
+    ||||
+    |:--:|:--:|:--:|
+    |![couloir #0](photo/etage0_06_couloir_0.jpeg)|![couloir #1](photo/etage0_06_couloir_1.jpeg)|![couloir #2](photo/etage0_06_couloir_2.jpeg)|
+
+  * salle de bain
+
+    ||||
+    |:--:|:--:|:--:|
+    |![salle de bain #0](photo/etage0_07_salledebain_0.jpeg)|![salle de bain #1](photo/etage0_07_salledebain_1.jpeg)||
+
+  * chambre
+
+    ||||
+    |:--:|:--:|:--:|
+    |![chambre #0](photo/etage0_08_chambre_0.jpeg)|![chambre #1](photo/etage0_08_chambre_1.jpeg)|![chambre #2](photo/etage0_08_chambre_2.jpeg)|
+    |![chambre #3](photo/etage0_08_chambre_3.jpeg)|||
+
+  * wc
+
+    ||||
+    |:--:|:--:|:--:|
+    |![wc #0](photo/etage0_08_wc_0.jpeg)|![wc #1](photo/etage0_08_wc_1.jpeg)|![wc #2](photo/etage0_08_wc_2.jpeg)|
+
 * etage 1
-  * [palier #0](photo/etage1_00_palier_0.jpeg)
-  * [palier #1](photo/etage1_00_palier_1.jpeg)
-  * [palier #2](photo/etage1_00_palier_2.jpeg)
-  * [bureau #0](photo/etage1_01_bureau_0.jpeg)
-  * [bureau #1](photo/etage1_01_bureau_1.jpeg)
-  * [chambre #0](photo/etage1_02_chambre_0.jpeg)
-  * [chambre #1](photo/etage1_02_chambre_1.jpeg)
-  * [chambre #2](photo/etage1_02_chambre_3.jpeg)
-  * [chambre #3](photo/etage1_02_chambre_4.jpeg)
-  * [salle de bain / wc #0](photo/etage1_03_salledebainwc_0.jpeg)
-  * [salle de bain / wc #1](photo/etage1_03_salledebainwc_1.jpeg)
-  * [salle de bain / wc #2](photo/etage1_03_salledebainwc_2.jpeg)
+  * palier
+
+    ||||
+    |:--:|:--:|:--:|
+    |![palier #0](photo/etage1_00_palier_0.jpeg)|![palier #1](photo/etage1_00_palier_1.jpeg)|![palier #2](photo/etage1_00_palier_2.jpeg)|
+
+  * bureau
+
+    ||||
+    |:--:|:--:|:--:|
+    |![bureau #0](photo/etage1_01_bureau_0.jpeg)|![bureau #1](photo/etage1_01_bureau_1.jpeg)||
+
+  * chambre
+
+    ||||
+    |:--:|:--:|:--:|
+    |![chambre #0](photo/etage1_02_chambre_0.jpeg)|![chambre #1](photo/etage1_02_chambre_1.jpeg)|![chambre #2](photo/etage1_02_chambre_3.jpeg)|
+    |![chambre #3](photo/etage1_02_chambre_4.jpeg)|||
+
+  * salle de bain / wc
+
+    ||||
+    |:--:|:--:|:--:|
+    |![salle de bain / wc #0](photo/etage1_03_salledebainwc_0.jpeg)|![salle de bain / wc #1](photo/etage1_03_salledebainwc_1.jpeg)|![salle de bain / wc #2](photo/etage1_03_salledebainwc_2.jpeg)|
 
 ## 3. plan
 
-* [etage 0](plan/etage0.png)
-* [etage 1](plan/etage1.png)
+* etage 0
+
+    ||
+    |:--:|
+    |![etage 0](plan/etage0.png)|
+
+* etage 1
+
+    ||
+    |:--:|
+    |![etage 1](plan/etage1.png)|
 
 ## 4. inspiration
 
