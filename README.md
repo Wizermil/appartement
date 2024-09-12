@@ -65,7 +65,9 @@
 
 ## 2. photo + video
 
-[![video appartement](https://img.youtube.com/vi/u-QEz6omidc/0.jpg)](https://youtu.be/u-QEz6omidc?si=lpIIQx8ClwW85394)
+* video
+
+  [![video appartement](https://img.youtube.com/vi/u-QEz6omidc/hqdefault.jpg)](https://youtu.be/u-QEz6omidc?si=lpIIQx8ClwW85394)
 
 * etage 0
   * palier
