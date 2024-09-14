@@ -334,7 +334,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Verner Panton flowerpot](https://www.andtradition.com/products/flowerpot-vp12)
     * [disderot j13](https://disderot.com/en/produit/lampe-j13/)
     * [sammode g50](https://studio.sammode.com/en/product/luminaires/g50/)
-    * [arik levy ghost](https://ariklevy.fr/design/lighting/ghost-for-vibia)
+    * [Rodolfo Dordoni buds 3](https://www.foscarini.com/en/product/buds-3-buds-s/)
+    * [Arik Levy ghost](https://ariklevy.fr/design/lighting/ghost-for-vibia)
+    * [Martinelli Luce cicala](https://martinelliluce.it/en/cicala)
+    * [Jurie & Jarre](https://jurie-jarre.com/collections/appliques-murales-1/products/applique-pistil?variant=49550860124424)
+    * [prof grace](https://www.profoffice.it/fr/produit/lampes/grace-n-1/)
+    * [gant c-serie](https://gantlights.com/de/produkt/c-serieoxi-pendelleuchte-oxidiertes-kupfer/)
     * [Wever & Ducre](https://www.weverducre.com)
     * [stodeer](https://stodeer.com/products/stodeer-design-shop-interstellar-crossing-robot-art-deco-table-lamp-with-bauhaus-metal-atmosphere)
     * [eingang](https://eingangstudio.com)
@@ -384,6 +389,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [hay](https://www.hay.dk)
     * [tikamoon](https://www.tikamoon.com)
     * [yamazaki](https://theyamazakihome-europe.com)
+    * [hkliving](https://hkliving.com)
   * console
     * [rawbrown](https://www.rawbrown.com)
     * [moca](https://mocaline.com/product/framed/)
@@ -619,6 +625,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * horloge
     * [swiss](https://commerce.sbb.ch/fr/horloges-de-gare/horloges-murales.html?product_list_order=price)
     * [braun](https://de.braun-clocks.com/collections/analogue-clocks/products/bc26-braun-analogue-european-radio-controlled-wall-clock-black)
+    * bureau
+      * [seiko](https://www.seikoclocksusa.com/collections/qhl062ylh/)
   * reveil
     * [Loftie Clock](https://byloftie.com/products/loftie?srsltid=AfmBOoqA3Z-cn9SqzOZR116FlbnQ03qv1kjywtS8YP1e8s4pzXgELwzr)
   * tapis
@@ -744,6 +752,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [stamuli tagada](https://stamuli.com/design/tagada-mirror/)
     * [alasta](https://alasta.fr)
     * [artforma](https://artforma.fr)
+    * [Noah Willemse](https://glasup.com/collections/all)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
@@ -904,12 +913,15 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Plaster Art](https://yourmoderndesigns.com/collections/plaster-art-collection)
     * [Ruben Benjamin](https://www.ruben-benjamin.com)
     * [David Nott](https://www.davidnottdesign.com)
+    * [Sean Thornhill](https://seanthornhill.art/collections/all)
+    * [Anna Kruhelska](https://www.annakruhelska.com/ombre-series/)
     * [Paula Such](https://www.artpal.com/paperandmarkers)
     * [arturel](https://arturel.fr/products/wave-long?variant=43391803228387&campaign_id=120207643137850661&ad_id=120211164530160661&shpxid=60e5c30e-6545-4409-a2ad-c222d312ec7f)
     * [Paul Anton](https://www.antonaiguabella.com/tectonias)
     * [Liam Roberts](https://www.liamrobertsdesign.co.uk/art-shop)
     * [Danny Jarjour](https://dannyjarjour.com)
     * [isakov](https://www.isakov.de/canvas)
+    * [Pauline Lindberg](https://www.paulinelindberg.se)
     * [RBInterior](https://www.rbinterior.nl/en/art)
     * [Kübra Erguvan](https://www.artbykuebra.com/en)
     * [zcwostore](https://www.zcwostore.com)
@@ -938,6 +950,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Sawai Kenta](https://s-kenken.com)
     * [enox](https://enoxart.com)
     * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
+    * [Jules Vanhagen](https://www.julesvanhagen.com)
     * [astro boy](https://en.astroboyedition.com)
     * [Leblon Delienne](https://www.leblon-delienne.com/en/figurines/130-2392-snoopy-sun-27-cm-3700408920883.html#/33-color-black_white)
     * [Guido Llordi](https://llordi.com.ar/productos/serie-inmerso-120x80cm/)
