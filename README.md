@@ -341,6 +341,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [prof grace](https://www.profoffice.it/fr/produit/lampes/grace-n-1/)
     * [gant c-serie](https://gantlights.com/de/produkt/c-serieoxi-pendelleuchte-oxidiertes-kupfer/)
     * [Wever & Ducre](https://www.weverducre.com)
+    * [Emil Robbrecht](https://www.emilrobbrecht.com)
     * [stodeer](https://stodeer.com/products/stodeer-design-shop-interstellar-crossing-robot-art-deco-table-lamp-with-bauhaus-metal-atmosphere)
     * [eingang](https://eingangstudio.com)
     * [onfale](https://www.artemide.com/fr/subfamily/21586/onfale)
@@ -470,6 +471,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * electricite
       * [eubiq electric rail](https://www.eubiqfrance.com/goulotte-electrique-encastrable-rh2-c2x33087849)
       * [goneo power track](https://fr.goneohome.eu/product-page/goneo-french-power-track)
+      * [diy #1 led](https://youtu.be/V0l73nnGeqk?si=wdPvsHi42KG-pWqc)
     * robot
       * [xbloom coffee](https://xbloom.com/)
       * [us-tronic transfo 100V](https://us-tronic.com/collections/transformateurs-100-volts/products/transformateur-pour-utiliser-des-appareils-japonais-consommant-jusqua-1500-watts-1)
@@ -957,6 +959,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Brendan Cullen Benson](https://www.icanvas.com/canvas-art-prints/artist/brendan-cullen-benson?product=canvas&sort=popular)
     * [Thomas Gromas](https://www.thomas-gromas.be)
     * [Mona Finden](https://www.monafinden.com)
+    * [Mr Barghest](https://www.instagram.com/mrbarghest)
     * [Franck Lamboley](https://www.lorient-art-galerie.com/artiste/franck-lamboley)
     * [leah ideas](https://leahideas.com/fr)
     * [Yayoi Kusama](https://www.artsy.net/artist/yayoi-kusama)
