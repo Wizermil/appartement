@@ -402,6 +402,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [micadoni](https://micadoni.com)
     * [westwing](https://www.westwing.fr/canapes-d-angle)
     * [Nipa Doshi and Jonathan Levien](https://www.scandinavia-design.fr/HAY/quilton-modular-sofa.html)
+    * [Anderssen and Voll rest](https://www.muuto.com/product/rest-sofa-3-seater-p1902/p1902/)
+    * [Edward van Vliet Develius](https://www.andtradition.com/products/develius-ev1-ev7)
     * [Gould Sofa](https://www.knoll-int.com/gould-sofa)
     * [haus dari](https://youtu.be/D0kAl1cboDw?si=3PPsNX3cBKCULz91)
     * [collector](https://collectorgroup.pt/collection/)
@@ -409,6 +411,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Tom Dixon plump](https://www.tomdixon.net/fr_fr/plump-4-seater-modular-sofa-configuration-4-orange-red-kvadrat-hero-2-0552.html)
     * [dion](https://dion.eu/en-sofas)
     * [vetsak](https://fr.vetsak.com/collections/sofa-products)
+  * pouf
+    * [Cecilie Manz Pouf](https://www.fritzhansen.com/en/categories/by-series/pouf/pouflarge?sku=840299)
+    * [knot](https://www.designhousestockholm.com/global/knot-cushion?color=524&size=277)
   * interrupteur
     * [Buster and Punch](https://www.busterandpunch.com/us)
     * [corston](https://www.corston.fr/pages/interrupteurs-et-prises)
@@ -538,6 +543,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [karin](https://www.desiree.com/fr/produits/fauteuils/karin)
     * [le club](https://www.poliform.it/en/products/le-club)
     * [101cph](https://101cph.com/collections/furniture/products/toe-chair-flat-taupe-pallazo-163)
+    * [Thomas Bentzen](https://www.muuto.com/product/Cover-Lounge-Chair--p2610/18071/?_t_id=eEg49dE-d4w88Q02xxroIA%3d%3d&_t_q=COVER+LOUNGE+CHAIR&_t_tags=andquerymatch%2clanguage%3aen%2csiteid%3aa5f62cc5-c236-4941-bc7b-78c9dfa45ac1&_t_hit.id=Muuto_Website_Models_Catalog_Variant%2fCatalogContent_114cc949-fd4d-4508-9b3f-bf8f80540b2b_en&_t_hit.pos=1)
   * chaise
     * [Durham](https://www.kidwellfabrications.com/chairs)
     * [combo](https://arde.dk/combo/)
@@ -602,6 +608,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [tokyo tatami mat](https://japanese-tatamimat.com/)
     * [morita tatami mat](https://www.tatami-mat.net/france.html)
     * [cesar bazaar carreaux de ciment](https://www.cesarbazaar.fr/carreaux-de-ciment/catalogue/collections)
+    * [Lea Ceramiche](https://www.leaceramiche.fr)
   * wc
     * [geberit](https://www.geberit.fr/produits-de-salle-de-bains/espace-wc/wc-lavants-geberit-aquaclean/produits/geberit-aquaclean-alba)
     * [toto](https://eu.toto.com/fr/produits/washlet/TCF804C2G)
@@ -760,6 +767,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * rack serveur
       * [startech 32U](https://www.startech.com/en-fr/server-management/rk3236bkf)
       * [eaton 5PX G2 ups](https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-5px-g2.html)
+  * rideau
+    * [madura](https://www.madura.com/collections/rideau)
   * miroir
     * [porada](https://www.porada.it/en/product/fortyfive)
     * [novamobili](https://www.novamobili.it/it/specchio-astrid)
@@ -767,6 +776,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [alasta](https://alasta.fr)
     * [artforma](https://artforma.fr)
     * [Noah Willemse](https://glasup.com/collections/all)
+    * [Studio Roso](https://www.fritzhansen.com/en/categories/by-series/mirror/mirrorround?sku=840320)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
@@ -812,7 +822,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [curtain](https://www.showroomaudio.com/shop/traitement-acoustique/panneaux-absorbants/moondream-rideau-phonique-tons-bleu)
     * [acoustic fabric](https://www.akustikstoff.com/fr/Tissu-acoustique-Standard/Tissu-acoustique-vendu-au-metre-largeur-150-cm::750.html)
   * traitement de l'eau
+    * [adey](https://adey.com/eu/fr/magnaclean-hp)
     * [ecobulles](https://ecobulles.com/)
+    * [dropson](https://dropson.fr/accueil/)
     * [vulcan](https://vulcan-anticalcaire.fr)
     * [aquabion](https://aquabion-distribution.com)
     * [calceo](https://www.calceo-anticalcaire.fr/gamme-calceo)
@@ -967,6 +979,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
     * [Jules Vanhagen](https://www.julesvanhagen.com)
     * [astro boy](https://en.astroboyedition.com)
+    * [Paco Sanchez](https://releeze.com/collections/paco-sanchez)
     * [Leblon Delienne](https://www.leblon-delienne.com/en/figurines/130-2392-snoopy-sun-27-cm-3700408920883.html#/33-color-black_white)
     * [Guido Llordi](https://llordi.com.ar/productos/serie-inmerso-120x80cm/)
     * [Brendan Cullen Benson](https://www.icanvas.com/canvas-art-prints/artist/brendan-cullen-benson?product=canvas&sort=popular)
@@ -974,6 +987,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Mona Finden](https://www.monafinden.com)
     * [Mr Barghest](https://www.instagram.com/mrbarghest)
     * [Franck Lamboley](https://www.lorient-art-galerie.com/artiste/franck-lamboley)
+    * [Sebastiaan Knot](https://www.sebastiaanknot.nl/installations.html)
+    * [Elisa Estudio](https://elisaestudio.com)
     * [leah ideas](https://leahideas.com/fr)
     * [Yayoi Kusama](https://www.artsy.net/artist/yayoi-kusama)
     * [Julien Durix](https://juliendurix.com/en/collections/oeuvres-limitees)
@@ -986,12 +1001,17 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [crisco](https://criscoart.com/ghost-glow-prints)
     * [Jack Do](https://www.instagram.com/barracuda_art)
     * [Hiroshi Sugimoto](https://www.sugimotohiroshi.com/artworks)
+    * [Ross Mortelmans](https://www.instagram.com/mortelmansart/)
     * [Paiheme](https://paihemestudio.com)
     * [Bomb Ink](https://bombink.thebase.in)
     * [Nicolas Krauss](https://nicolaskrauss.com)
     * [Guilherme Asthma](https://www.behance.net/guilhermeasthma/projects)
     * [Helio Bray](https://www.heliobray.com/pages/shows/shows-d4bhsnhl)
     * [Alex Ross](https://www.alexrossart.com/)
+    * [Bill Sienkiewicz](https://billsienkiewiczart.com)
+    * [Terry Dodsona](https://www.terrydodsonart.com/)
+    * [J Scott Campbell](https://jscottcampbell.com/)
+    * [Jamal Campbell](https://www.jamalcampbell.com/)
     * [Keith Haring](https://en.wikipedia.org/wiki/Keith_Haring)
     * [EFX](https://efxcollectibles.com)
     * [SP Sabers](https://www.spsabers.com)
@@ -1003,4 +1023,5 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Eor Glas](https://www.eorglas.fr/boutique)
     * [Sinead](https://cuttingedgedesigns.co.nz)
     * [santicri](https://www.artsper.com/fr/artistes-contemporains/italie/80037/santicri)
+    * [James Oughtibridge](https://courses.jamesoughtibridgesculpture.co.uk/product-category/ceramics/)
     * [3D Wabi Sabi](https://www.canvasartclub.com/collections/abstract-collection/products/3d-effect-abstract-wall-art-poster-geometric-wabi-sabi-modern-home-salon-decor-canvas-painting-brown-pictures-interior-room)
