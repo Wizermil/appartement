@@ -625,12 +625,14 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [lelabo santal 26](https://www.lelabofragrances.com/santal-26-160.html?size=100ml)
       * [diptyque baies](https://www.diptyqueparis.com/fr_fr/p/pour-la-maison/diffuseurs/diffuseurs-electriques/cartouche-baies.html)
       * [diptyque diffuseur electrique](https://www.diptyqueparis.com/fr_fr/p/pour-la-maison/diffuseurs/diffuseurs-electriques/diffuseur-electrique-mural.html)
+      * [seasons diffuseur](https://www.seasonslife.com/products/soni-sm)
     * distributeur papier
       * [reuter viverso](https://www.reuter.com/en-fr/viverso-xwall-large-recessed-toilet-module-w-185-h-740-d-150-mm-hinged-left-black-a1140554.php)
     * seche main
       * [toto automatique](https://eu.toto.com/fr/produits/seche-mains/TYC604)
   * porte
     * [elezio](https://www.elezio.fr/elezio-porte-sur-charnieres)
+    * [dher](https://dher.eu/portes-affleurantes)
     * [eclisse](https://www.eclisse.fr/fr/produits/collection/classiques/porte-coulissante-acoustique-unique-32-db)
     * [picard](https://www.picard-serrures.com/global/fr)
     * [fichet](https://www.fichet-pointfort.com/fr/fr)
@@ -641,6 +643,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * plinthe
     * [maniglia](https://maniglia.fr/c/plinthes-invisibles)
     * [eclisse](https://www.eclisse.fr/fr/produits/complement/plinthe-syntesis)
+    * [dher](https://dher.eu/plinthes/)
   * horloge
     * [swiss](https://commerce.sbb.ch/fr/horloges-de-gare/horloges-murales.html?product_list_order=price)
     * [braun](https://de.braun-clocks.com/collections/analogue-clocks/products/bc26-braun-analogue-european-radio-controlled-wall-clock-black)
@@ -978,6 +981,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [enox](https://enoxart.com)
     * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
     * [Jules Vanhagen](https://www.julesvanhagen.com)
+    * [Matt Dixon](https://www.mattdixon.co.uk)
     * [astro boy](https://en.astroboyedition.com)
     * [Paco Sanchez](https://releeze.com/collections/paco-sanchez)
     * [Leblon Delienne](https://www.leblon-delienne.com/en/figurines/130-2392-snoopy-sun-27-cm-3700408920883.html#/33-color-black_white)
