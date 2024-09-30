@@ -360,6 +360,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [vibia](https://vibia.com)
     * [grau](https://www.grau.art/en)
     * [ovuud](https://www.ovuud.com)
+    * [lodes](https://www.lodes.com/fr/produits/easy-peasy)
     * [Jeremy Maxwell Wintrebert](https://jeremymaxwellwintrebert.com/wall-ceiling-light/venus-light)
     * [atelje Lyktan](https://www.ateljelyktan.se/en/home)
     * [diy #1](https://www.youtube.com/watch?v=07v06Xn9MWk&t=81s)
@@ -370,6 +371,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [hestia+co](https://hestiaco.co.uk)
     * [l&s](https://products.ls-light.com/en/kristal)
     * [101cph](https://101cph.com/collections/lighting)
+    * [faustlight](https://faustlight.dk)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -392,6 +394,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [tikamoon](https://www.tikamoon.com)
     * [yamazaki](https://theyamazakihome-europe.com)
     * [hkliving](https://hkliving.com)
+    * [hubsch](https://hubsch-interior.com)
   * console
     * [rawbrown](https://www.rawbrown.com)
     * [moca](https://mocaline.com/product/framed/)
@@ -492,7 +495,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [smeg toaster](https://www.smeg.com/products/TSF01BLEU)
     * eau gazeuse
       * [aarke](https://fr.aarke.com/collections/all-products)
+      * [grohe blue home](https://www.groheblue.fr/fr-fr/produits/grohe-blue-home)
+      * [quooker](https://www.quooker.be/frbe/fusion-square-fusionsquare-3.html?finish=221)
     * eau potable (reverse osmosis)
+      * [grohe](https://www.grohe.fr/fr_fr/grohe-blue-kit-filtre-osmose-invers-e-min-raux-40878000.html)
       * [bluewater](https://www.bluewatergroup.com)
       * [waterdrop](https://www.waterdropfilter.eu/collections/remineralize-reverse-osmosis-systems/products/remineralization-reverse-osmosis-system-wd-g3p800)
       * [culligan premium](https://www.culligan.fr/produits/filtres-et-osmoseurs-eau/culligan-premium/)
@@ -612,12 +618,14 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * wc
     * [geberit](https://www.geberit.fr/produits-de-salle-de-bains/espace-wc/wc-lavants-geberit-aquaclean/produits/geberit-aquaclean-alba)
     * [toto](https://eu.toto.com/fr/produits/washlet/TCF804C2G)
+    * [grohe](https://www.grohe.fr/fr_fr/sensia-arena-wc-lavant-suspendu-pour-r-servoirs-de-chasse-encastr-s-39354SH1.html)
     * [tohaa design](https://tohaadesign.com/eu/fr/)
     * lave main
       * [bleu provence](https://bleuprovence.it/fr/product/serie-truecolors-truecolors-lavabo-small/)
       * [beton par nature](https://betonparnature.fr/en/collections/vasques-beton/products/lave-mains-beton-charismatique?variant=48205937803599)
     * robinet
       * [toto robinet auto](https://eu.toto.com/fr/produits/robinets)
+      * [duten](https://www.duten.com)
     * savon
       * [toto distributeur automatique](https://eu.toto.com/fr/produits/robinets/DSE101EEC)
       * [le labo basil](https://www.lelabofragrances.com/hand-soap-640.html?size=500ml)
@@ -685,9 +693,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [b stone](https://b-stone.fr)
     * [atelier offard](https://www.atelierdoffard.com/en)
     * [wallism](https://wallism.com/fr/product/dnG8k965V0oo)
+    * [wellpapers x ouestled](https://www.wellpapers.com/papier-peint/collection/ouestled)
   * robinetterie
     * [phylrich](https://phylrich.com/collections/works-ii/products/widespread-faucet-221-02)
-    * [quooker](https://www.quooker.be/frbe/fusion-square-fusionsquare-3.html?finish=221)
   * electricite
     * automatisation
       * [home assistant](https://www.home-assistant.io/)
@@ -946,6 +954,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Sean Thornhill](https://seanthornhill.art/collections/all)
     * [Anna Kruhelska](https://www.annakruhelska.com/ombre-series/)
     * [Paula Such](https://www.artpal.com/paperandmarkers)
+    * [Corine van Voorbergen](https://www.corinevanvoorbergen.com)
+    * [Guillaume Grando](https://www.guillaumegrando.com)
     * [arturel](https://arturel.fr/products/wave-long?variant=43391803228387&campaign_id=120207643137850661&ad_id=120211164530160661&shpxid=60e5c30e-6545-4409-a2ad-c222d312ec7f)
     * [Paul Anton](https://www.antonaiguabella.com/tectonias)
     * [Liam Roberts](https://www.liamrobertsdesign.co.uk/art-shop)
@@ -992,6 +1002,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Mr Barghest](https://www.instagram.com/mrbarghest)
     * [Franck Lamboley](https://www.lorient-art-galerie.com/artiste/franck-lamboley)
     * [Sebastiaan Knot](https://www.sebastiaanknot.nl/installations.html)
+    * [Daphne Mistretta](https://daphnemistretta.com/collections/all)
     * [Elisa Estudio](https://elisaestudio.com)
     * [leah ideas](https://leahideas.com/fr)
     * [Yayoi Kusama](https://www.artsy.net/artist/yayoi-kusama)
