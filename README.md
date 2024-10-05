@@ -397,6 +397,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [hubsch](https://hubsch-interior.com)
   * console
     * [rawbrown](https://www.rawbrown.com)
+    * [loia](https://loia.studio/en/collections/meubles)
     * [moca](https://mocaline.com/product/framed/)
     * [rove concepts athena](https://www.roveconcepts.com/athena-sideboard?aid%5B64%5D=1498)
   * canapé
@@ -428,6 +429,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [also & co](https://alsoandco.com)
     * [alphaplate](https://www.alphaplate.it)
     * [6ixtes](https://www.6ixtes.com)
+    * [jung](https://www.jung-group.com/en-UK/Products/)
   * lit
     * [reflex](https://www.reflexangelo.com/en/prodotto/wave-letto-xl)
     * [desiree](https://www.desiree.com/fr/produits/lits/hab-lit)
@@ -486,6 +488,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [eubiq electric rail](https://www.eubiqfrance.com/goulotte-electrique-encastrable-rh2-c2x33087849)
       * [goneo power track](https://fr.goneohome.eu/product-page/goneo-french-power-track)
       * [diy #1 led](https://youtu.be/V0l73nnGeqk?si=wdPvsHi42KG-pWqc)
+    * cave a vin
+      * [klima](https://www.klimaitalia.it/undefined/settori/wine/frigo-vini/vinarius-40-gry)
     * robot
       * [xbloom coffee](https://xbloom.com/)
       * [us-tronic transfo 100V](https://us-tronic.com/collections/transformateurs-100-volts/products/transformateur-pour-utiliser-des-appareils-japonais-consommant-jusqua-1500-watts-1)
@@ -542,7 +546,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Antonio Citterio abc](https://www.flexform.it/en/products/indoor/all-products/armchairs/abc)
     * [Mario Capasa Bolla](https://mariocapasa.com/products/bolla-lounge-chair?variant=45487301361823)
     * [Togo](https://www.ligne-roset.com/fr/p/fauteuils/chauffeuse-togo-1177)
-    * [cini boeri](https://www.knoll-int.com/home/by-designer/contemporary-designers/cini-boeri/cini-boeri-collection)
+    * [cini boeri](https://www.knoll.com/media/246/422/CiniBoeriBrochure.pdf)
+    * [utrecht xl](https://www.cassina.com/ww/fr/products/utrecht-xl-pro.html)
     * [bend](https://www.ditreitalia.com/en/products/armchairs/bend)
     * [ahus](https://www.blastation.com/products/easy-chairs/ahus/ahus)
     * [kn04](https://www.knoll-int.com/kn-collection-by-knoll-kn04)
@@ -623,6 +628,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * lave main
       * [bleu provence](https://bleuprovence.it/fr/product/serie-truecolors-truecolors-lavabo-small/)
       * [beton par nature](https://betonparnature.fr/en/collections/vasques-beton/products/lave-mains-beton-charismatique?variant=48205937803599)
+      * [agape](https://www.agapedesign.it/en-GB/washbasins)
     * robinet
       * [toto robinet auto](https://eu.toto.com/fr/produits/robinets)
       * [duten](https://www.duten.com)
@@ -672,6 +678,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [vasque](https://www.cedeo.fr/p/sanitaire/plan-de-toilette-zao-avec-double-vasque-120-cm-beton-hpl-A7309177)
     * [viega](https://www.viega.fr/fr/produits/themas/visign.html)
     * [riluxa](https://riluxa.com)
+    * accessoire
+      * [decor walther](https://www.decor-walther.com/en/products/lifestyle)
   * chauffage
     * [qalway](https://qalway.com/en/product/radiateur-numerique)
     * [intuis](https://intuis.fr/signature/produit/chauffage-electrique/keramos-nativ/terre-de-mars)
@@ -1019,6 +1027,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Ross Mortelmans](https://www.instagram.com/mortelmansart/)
     * [Paiheme](https://paihemestudio.com)
     * [Bomb Ink](https://bombink.thebase.in)
+    * [keaps](https://www.keaps.store)
     * [Nicolas Krauss](https://nicolaskrauss.com)
     * [Guilherme Asthma](https://www.behance.net/guilhermeasthma/projects)
     * [Helio Bray](https://www.heliobray.com/pages/shows/shows-d4bhsnhl)
@@ -1028,6 +1037,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [J Scott Campbell](https://jscottcampbell.com/)
     * [Jamal Campbell](https://www.jamalcampbell.com/)
     * [Keith Haring](https://en.wikipedia.org/wiki/Keith_Haring)
+    * [Craig Watkins](https://wottoart.com)
     * [EFX](https://efxcollectibles.com)
     * [SP Sabers](https://www.spsabers.com)
     * [KR Sabers](https://www.krsabers.com)
