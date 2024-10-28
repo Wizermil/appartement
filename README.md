@@ -335,6 +335,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [disderot j13](https://disderot.com/en/produit/lampe-j13/)
     * [sammode g50](https://studio.sammode.com/en/product/luminaires/g50/)
     * [Rodolfo Dordoni buds 3](https://www.foscarini.com/en/product/buds-3-buds-s/)
+    * [thinkerlamp](https://thinkerlamps.com/products/thinkerlamp)
     * [Arik Levy ghost](https://ariklevy.fr/design/lighting/ghost-for-vibia)
     * [Martinelli Luce cicala](https://martinelliluce.it/en/cicala)
     * [Jurie & Jarre](https://jurie-jarre.com/collections/appliques-murales-1/products/applique-pistil?variant=49550860124424)
@@ -372,6 +373,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [l&s](https://products.ls-light.com/en/kristal)
     * [101cph](https://101cph.com/collections/lighting)
     * [faustlight](https://faustlight.dk)
+    * [Beneito Faure](https://beneito-faure.com/en)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -418,6 +420,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * pouf
     * [Cecilie Manz Pouf](https://www.fritzhansen.com/en/categories/by-series/pouf/pouflarge?sku=840299)
     * [knot](https://www.designhousestockholm.com/global/knot-cushion?color=524&size=277)
+    * [fatboy](https://www.fatboy.com)
   * interrupteur
     * [Buster and Punch](https://www.busterandpunch.com/us)
     * [corston](https://www.corston.fr/pages/interrupteurs-et-prises)
@@ -473,6 +476,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [diy #1](https://www.youtube.com/watch?v=0kdv9ZMxQjU)
     * electromenager
       * [liebherr](https://home.liebherr.com/fr/fra/products/produits.html)
+      * [elica](https://www.elica.com/FR-fr/fours/virtus-multi-60-tft)
       * [asko](https://fr.asko.com)
       * [franke](https://www.franke.com/fr/fr/home.html)
       * [neff](https://www.neff-home.com/fr)
@@ -492,6 +496,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [klima](https://www.klimaitalia.it/undefined/settori/wine/frigo-vini/vinarius-40-gry)
     * robot
       * [xbloom coffee](https://xbloom.com/)
+      * [varia](https://www.variabrewing.com)
       * [us-tronic transfo 100V](https://us-tronic.com/collections/transformateurs-100-volts/products/transformateur-pour-utiliser-des-appareils-japonais-consommant-jusqua-1500-watts-1)
       * [zojirushi rice cooker](https://www.zojirushi.co.jp/syohin/rice/ricecooker/nw-fb/#container)
       * [kettle](https://fellowproducts.com/products/corvo-ekg-pro-electric-kettle-studio-edition?pr_prod_strat=e5_desc&pr_rec_id=bddfafd5e&pr_rec_pid=7169135738980&pr_ref_pid=6974325129316&pr_seq=uniform&variant=41591159423076)
@@ -501,6 +506,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [aarke](https://fr.aarke.com/collections/all-products)
       * [grohe blue home](https://www.groheblue.fr/fr-fr/produits/grohe-blue-home)
       * [quooker](https://www.quooker.be/frbe/fusion-square-fusionsquare-3.html?finish=221)
+      * [newform alkimia](<https://www.newform.it/en/alkimia-en/73300-sink-mixer-tap-with-swivel-spout>)
     * eau potable (reverse osmosis)
       * [grohe](https://www.grohe.fr/fr_fr/grohe-blue-kit-filtre-osmose-invers-e-min-raux-40878000.html)
       * [bluewater](https://www.bluewatergroup.com)
@@ -524,9 +530,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
           * [Japanese Steel SG2 / SGPS / R2](https://www.couteauxduchef.com/blog/acier-sg2-sgps-couteaux-ultra-tranchants-n346)
         * [Joonetsu](https://joonetsuknives.com/en/acceuil-english)
         * [Kama-Asa](https://kama-asa.co.jp/en-eu)
+      * stockage
+        * [cliik](https://cliikhome.com)
     * poubelle
       * [simplehuman](https://www.simplehuman.fr)
       * [gollinucci poubelle encastrable](https://www.gollinucci.com/fr/produits/ligne-561)
+      * [msa](https://www.groupe-sofive.com/tous-nos-produits/msafrance/gestion-des-dechets/r10-popularite-desc-p1)
       * [donHierro](https://donhierro.com/fr/18-poubelles-tri-selectif)
       * [ferm enkel](https://fermliving.fr/products/enkel-bin-cashmere)
       * [hailo poubelle encastrable](https://www.hailo-shop.fr/475-poubelle-encastrable)
@@ -555,6 +564,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [le club](https://www.poliform.it/en/products/le-club)
     * [101cph](https://101cph.com/collections/furniture/products/toe-chair-flat-taupe-pallazo-163)
     * [Thomas Bentzen](https://www.muuto.com/product/Cover-Lounge-Chair--p2610/18071/?_t_id=eEg49dE-d4w88Q02xxroIA%3d%3d&_t_q=COVER+LOUNGE+CHAIR&_t_tags=andquerymatch%2clanguage%3aen%2csiteid%3aa5f62cc5-c236-4941-bc7b-78c9dfa45ac1&_t_hit.id=Muuto_Website_Models_Catalog_Variant%2fCatalogContent_114cc949-fd4d-4508-9b3f-bf8f80540b2b_en&_t_hit.pos=1)
+    * [Antarte by IA](https://antarte.pt/fr/produit/ia005v200-fauteuil-antarte-by-ia)
   * chaise
     * [Durham](https://www.kidwellfabrications.com/chairs)
     * [combo](https://arde.dk/combo/)
@@ -563,6 +573,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [curve](https://www.poliform.it/en/products/curve-sedia)
     * [hiroshima](https://www.maruni.com/en/product/hr_armchair_cushioned)
     * [dundra](https://www.blastation.com/products/chairs/dundra/dundra)
+    * [Lucas Wotawa](https://www.lucaswotawa.com/)
     * [Claus Breinholt freya](https://www.infinitidesign.it/en/product/freya/)
     * [Eames DCW](https://www.vitra.com/fr-fr/product/details/plywood-group-dcw)
   * etagere
@@ -588,7 +599,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [maestro](https://octavio.fr/en/products/support-maestro)
   * home office
     * [bookcase](https://www.mobibam.com/bibliotheque-bd/)
-    * [lago](https://www.lagodesign.com/fr/design/bibliotheque-lagolinea/?utm_source=facebook&utm_medium=cpc&utm_campaign=lead%20fr&utm_content=libreria%20Lagolinea&fbclid=IwZXh0bgNhZW0BMAABHeQc6hb7mL8hne4foB7yWWs6PIph0Agrexr2ih3y939-9hHA8GjAl5Gt_A_aem_V4bI4OvqUrCPKe9wTqldNw)
+    * [lago](https://www.lagodesign.com/fr/design/bibliotheque-lagolinea/?utm_source=facebook&utm_medium=cpc&utm_campaign=lead%20fr&utm_content=libreria%20Lagolinea)
     * [mini fridge](https://roccofridge.com)
     * [hexcal](https://www.hexcal.com/products/hexcal-studio)
     * bureau
@@ -669,6 +680,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [layered](https://layeredinterior.com/shop?funk2=startsida&funk=inst_val_sprak&Valuta_ID=EUR)
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
+    * [kast](https://kastconcretebasins.com)
     * [betonparnature](https://betonparnature.fr/en)
     * [Jacob Delafon](https://www.jacobdelafon.com/showering/shower-trays)
     * [dornbracht](https://www.dornbracht.com/fr-fr)
@@ -678,6 +690,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [vasque](https://www.cedeo.fr/p/sanitaire/plan-de-toilette-zao-avec-double-vasque-120-cm-beton-hpl-A7309177)
     * [viega](https://www.viega.fr/fr/produits/themas/visign.html)
     * [riluxa](https://riluxa.com)
+    * chauffage
+      * [tubes](https://www.tubesradiatori.com/fr/)
     * accessoire
       * [decor walther](https://www.decor-walther.com/en/products/lifestyle)
   * chauffage
@@ -793,6 +807,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [novamobili](https://www.novamobili.it/it/specchio-astrid)
     * [stamuli tagada](https://stamuli.com/design/tagada-mirror/)
     * [alasta](https://alasta.fr)
+    * [blossholm](https://blossholm.com)
     * [artforma](https://artforma.fr)
     * [Noah Willemse](https://glasup.com/collections/all)
     * [Studio Roso](https://www.fritzhansen.com/en/categories/by-series/mirror/mirrorround?sku=840320)
@@ -1008,6 +1023,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Thomas Gromas](https://www.thomas-gromas.be)
     * [Mona Finden](https://www.monafinden.com)
     * [Mr Barghest](https://www.instagram.com/mrbarghest)
+    * [Hombre Suk](https://www.bohmte-gallery.com/shop/hombre-suk/)
+    * [Adam Munoa](https://adammunoa.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZ-6nPdhoK-9LdvEkc2NrAx1STcLzvYXtA6_42LGut1rC0vVqOBH0uNt70_aem_JHo8HU2ciC_Zq-I87omJKA)
     * [Franck Lamboley](https://www.lorient-art-galerie.com/artiste/franck-lamboley)
     * [Sebastiaan Knot](https://www.sebastiaanknot.nl/installations.html)
     * [Daphne Mistretta](https://daphnemistretta.com/collections/all)
