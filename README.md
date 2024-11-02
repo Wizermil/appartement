@@ -302,6 +302,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [monsieurstore](https://monsieurstore.com/produits/store-enrouleur-occultant)
     * [diy #1](https://www.youtube.com/watch?v=IIgALNHmkjE)
     * [Screen Innovations](https://www.screeninnovations.com/shade/nano-box)
+    * [silentgliss](https://www.silentgliss.fr)
+    * [bandalux](https://bandalux.com)
     * [mycore](https://www.mycore.it/fr)
     * [store sur mesure](https://www.storesurmesure.com/90-store-enrouleur-prestige-petitmoyen-largeur-jusqu-a-280-cm)
     * [osyla](https://www.osyla.com/store-enrouleur-interieur-coffre-et-guides-occultant-toile-100-opaque-4511.html)
@@ -342,6 +344,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [prof grace](https://www.profoffice.it/fr/produit/lampes/grace-n-1/)
     * [gant c-serie](https://gantlights.com/de/produkt/c-serieoxi-pendelleuchte-oxidiertes-kupfer/)
     * [hubsch](https://hubsch-interior.com/fr/produit/sleek-lampe-de-table-marron-gris-clair/)
+    * [Simon Busse echo](https://caussa.de/product/echo-table-lamp-white/)
     * [Wever & Ducre](https://www.weverducre.com)
     * [Emil Robbrecht](https://www.emilrobbrecht.com)
     * [stodeer](https://stodeer.com/products/stodeer-design-shop-interstellar-crossing-robot-art-deco-table-lamp-with-bauhaus-metal-atmosphere)
@@ -397,6 +400,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [yamazaki](https://theyamazakihome-europe.com)
     * [hkliving](https://hkliving.com)
     * [hubsch](https://hubsch-interior.com)
+    * [audo](https://audocph.com)
   * console
     * [rawbrown](https://www.rawbrown.com)
     * [loia](https://loia.studio/en/collections/meubles)
@@ -643,6 +647,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * robinet
       * [toto robinet auto](https://eu.toto.com/fr/produits/robinets)
       * [duten](https://www.duten.com)
+      * [vola](https://en.vola.com/catalog)
     * savon
       * [toto distributeur automatique](https://eu.toto.com/fr/produits/robinets/DSE101EEC)
       * [le labo basil](https://www.lelabofragrances.com/hand-soap-640.html?size=500ml)
@@ -681,6 +686,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
     * [kast](https://kastconcretebasins.com)
+    * [hansgrohe](https://www.hansgrohe.fr/salle-de-bain/produits/douches)
     * [betonparnature](https://betonparnature.fr/en)
     * [Jacob Delafon](https://www.jacobdelafon.com/showering/shower-trays)
     * [dornbracht](https://www.dornbracht.com/fr-fr)
@@ -698,7 +704,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [qalway](https://qalway.com/en/product/radiateur-numerique)
     * [intuis](https://intuis.fr/signature/produit/chauffage-electrique/keramos-nativ/terre-de-mars)
     * [Piero Lissoni waffle](https://www.antrax.com/Prodotti/waffle/)
+    * [antrax](https://www.antrax.com/fr/)
     * [lana](https://www.antrax.com/fr/produits/lana-new/)
+    * [irsap](https://www.irsap.com/fr)
   * plante
     * [plantsio](https://www.plantsio.com)
     * [neoplants](https://neoplants.com)
@@ -718,6 +726,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [wellpapers x ouestled](https://www.wellpapers.com/papier-peint/collection/ouestled)
   * robinetterie
     * [phylrich](https://phylrich.com/collections/works-ii/products/widespread-faucet-221-02)
+    * [vola](https://en.vola.com/catalog)
   * electricite
     * automatisation
       * [home assistant](https://www.home-assistant.io/)
@@ -735,6 +744,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * prise invisible
       * [22system](https://22system.com/en-eu)
       * [6ixtes](https://www.6ixtes.com/collections/staffdecor)
+      * [rond](https://rond.io/)
     * [fs keystone rj45 cat8](https://www.fs.com/fr/products/216309.html?now_cid=4108)
     * [telegaertner keystone rj45 cat8](https://www.telegaertner.com/en/product/online-catalogue-datavoice-office/modular-system-amj/umj/amj-modules/coupler-shielded/amj-module-cat81/amj-module-cat81-t568a-b-100023211)
     * [fiber hdmi](https://shop.fibercommand.com/products/purefiber-ultravision-hdmi-2-1-48gbps-4k120hz-8k60hz-hdr-bundle-cable)
@@ -748,8 +758,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * projecteur
       * info
         * [distance ecran](https://www.projectorcentral.com/projection-calculator-pro.cfm)
-      * [jvc nz7](https://fr.jvc.com/video/dila/DLA-NZ7B)
+      * [jvc nz500](https://fr.jvc.com/video/dila/DLA-NZ500BE/)
       * [sony xw5000](https://pro.sony/fr_CH/products/4k-home-cinema-projectors/vpl-xw5000es)
+      * [jvc nz700](https://fr.jvc.com/video/dila/DLA-NZ700BE/)
       * [jvc nz800](https://fr.jvc.com/video/dila/DLA-NZ800BE/)
       * [hisense c1](https://hisense.fr/produit/smart-mini-projecteur-focale-ajustable-65-300-c1)
       * [valerion VisionMaster](https://www.valerion.com)
@@ -811,6 +822,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [artforma](https://artforma.fr)
     * [Noah Willemse](https://glasup.com/collections/all)
     * [Studio Roso](https://www.fritzhansen.com/en/categories/by-series/mirror/mirrorround?sku=840320)
+    * [Niruk cres](https://caussa.de/product/cres-mirror-blue-o-45-cm/)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
@@ -1067,3 +1079,5 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [santicri](https://www.artsper.com/fr/artistes-contemporains/italie/80037/santicri)
     * [James Oughtibridge](https://courses.jamesoughtibridgesculpture.co.uk/product-category/ceramics/)
     * [3D Wabi Sabi](https://www.canvasartclub.com/collections/abstract-collection/products/3d-effect-abstract-wall-art-poster-geometric-wabi-sabi-modern-home-salon-decor-canvas-painting-brown-pictures-interior-room)
+    * accessoires
+      * [Skateboard Hangers](https://www.hellahangers.com)
