@@ -548,9 +548,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * purificateur d'air
     * [dyson](https://www.dyson.fr/traitement-de-l-air/purificateurs-ventilateurs/purifier-big-quiet-formaldehyde-bp03/nickel-bleu-prusse-bp03)
   * aspirateur
-    * [dyson](https://www.dyson.fr/aspirateurs/sans-fil/gen5detect#choisir-un-modele)
+    * [roborock qrevo curv](https://fr.roborock.com/products/aspirateur-robot-roborock-qrevo-curv)
+    * [Dyson V15 Detect](https://www.dyson.fr/aspirateurs/sans-fil/v15/detect-total-clean)
+    * [Bissell Crosswave Hydrosteam](https://www.bissell.fr/crosswave-hydrosteam-pet-pro)
     * [tineco](https://fr-store.tineco.com/en/products/tineco-floor-one-s7-steam-balai-vapeur-sans-fil)
-    * [dreametech](https://fr.dreametech.com/products/l20-complete)
   * tabouret
     * [sharky](https://www.kristalia.it/en/products/sharky/#modal-sharky)
     * [curve](https://www.poliform.it/en/products/curve)
@@ -682,6 +683,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * reveil
     * [Loftie Clock](https://byloftie.com/products/loftie?srsltid=AfmBOoqA3Z-cn9SqzOZR116FlbnQ03qv1kjywtS8YP1e8s4pzXgELwzr)
   * tapis
+    * [Manufacture Cogolin](https://www.manufacturecogolin.com)
+    * [Nani Marquina](https://nanimarquina.com)
     * [layered](https://layeredinterior.com/shop?funk2=startsida&funk=inst_val_sprak&Valuta_ID=EUR)
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
@@ -876,6 +879,15 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [calceo](https://www.calceo-anticalcaire.fr/gamme-calceo)
     * [cintropur](https://www.cintropur.com/fr)
     * [socla](https://socla.com/site_Fr/desbordes/desbordes.htm)
+  * fenetre
+    * [internorm](https://www.internorm.fr)
+    * [schueco](https://www.schueco.com/fr/particuliers/fenetres)
+    * [finstral](https://www.finstral.com)
+    * [gaulhofer](https://www.gaulhofer.com)
+    * toit
+      * [fakro](https://www.fakro.fr/fenetres-de-toit/types/thermo-isolante-a-rotation/)
+      * [roto](https://www.roto-fenetres-de-toit.fr/)
+      * [velux](https://www.velux.fr/)
   * menuiserie
     * [foussier](https://www.foussier.fr/mes-services-rapido/rapido-mesure-48h-tiroir/pg11)
     * [finsa](https://www.finsa.com/fr/fg/superpantech)
@@ -891,7 +903,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [atelier perche](https://atelier-perche.com)
     * [mon petit marteau](https://monpetitmarteau.com)
     * [schaffner](https://www.schaffner.fr/)
+    * [rinku](https://rinku.design/pages/copenhague)
   * isolation thermique
+    * [va-q-tec va-Q-vip](https://www.va-q-tec.com/en/)
     * [steico](https://www.steico.com/fr)
     * [matgreen](https://matgreen.eu/gamme)
     * [diy #1](https://www.youtube.com/watch?v=Pig49Kwycco&t=172s)
