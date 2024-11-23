@@ -381,6 +381,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Beneito Faure](https://beneito-faure.com/en)
     * [NordLivingic](https://nordlivingic.com)
     * [Luke Lamp](https://www.lukelampco.com)
+    * [yuer skyline](https://www.yuerlight.com)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -800,6 +801,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * processeur av
         * [trinnov altitude 16](https://www.trinnov.com/en/products/altitude-sup-16-sup)
         * [isp elite mk3](https://www.stormaudio.com/produit/isp-elite-mk3)
+        * [denon avc a1h](https://www.denon.com/fr-be/product/av-receivers/avc-a1h/AVCA1HE2.html)
         * [marantz av10](https://www.marantz.com/fr-fr/product/av-separates/av-10/AV10.html)
       * amp
         * [apollon](https://apollonaudio.com/product/hypex-ncore-ncx500-multichannel-amplifier-6-12-channel/)
@@ -840,6 +842,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Studio Roso](https://www.fritzhansen.com/en/categories/by-series/mirror/mirrorround?sku=840320)
     * [Niruk cres](https://caussa.de/product/cres-mirror-blue-o-45-cm/)
     * [William Wood](https://www.williamwoodmirrors.co.uk/en-fr)
+    * [oom](https://www.oomglass.com)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
@@ -918,6 +921,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [mon petit marteau](https://monpetitmarteau.com)
     * [schaffner](https://www.schaffner.fr/)
     * [rinku](https://rinku.design/pages/copenhague)
+    * [archea](https://archea.fr)
+    * [owasinda](https://www.owasindadesign.com/shop)
   * isolation thermique
     * [va-q-tec va-Q-vip](https://www.va-q-tec.com/en/)
     * [steico](https://www.steico.com/fr)
@@ -992,6 +997,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [gell art](https://www.gell-art.com/shop/originals/)
     * [Farid Rueda](https://www.instagram.com/farid_rueda/?hl=en)
     * [Henry Blache](https://henry-blache.com/peintures-illustrations/)
+    * [Melissa Misoda](https://www.melissamisoda.com/shop)
     * [Remi Cierco](https://www.remicierco.com/?page_id=114)
     * [atelier 58](https://www.atelier-58.nl/portfolio/)
     * [Nicholas Hernandez](https://www.nickhartist.com)
@@ -1018,6 +1024,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Plaster Art](https://yourmoderndesigns.com/collections/plaster-art-collection)
     * [Ruben Benjamin](https://www.ruben-benjamin.com)
     * [David Nott](https://www.davidnottdesign.com)
+    * [just glass it](https://www.justglassit.fr)
     * [Sean Thornhill](https://seanthornhill.art/collections/all)
     * [Anna Kruhelska](https://www.annakruhelska.com/ombre-series/)
     * [Paula Such](https://www.artpal.com/paperandmarkers)
@@ -1037,6 +1044,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [turnedninja](https://turnedninja.com/collections/all-fanart)
     * [Warrick Wong](https://www.warrickwong.com)
     * [kelkin](https://www.artsper.com/lu/artistes-contemporains/france/17497/kelkin)
+    * [warpsol](https://warpsol.com)
+    * [supraw](https://supraw.com)
     * [Christopher Uminga](https://uminga720.storenvy.com/)
     * [Iain Hurfer](https://www.hurferhandpainted.com)
     * [Kevin Boudreau](https://www.kbooart.com/?page=1&limit=30&sort_by=shop_all_order&sort_order=asc)
