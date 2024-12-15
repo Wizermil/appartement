@@ -319,6 +319,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [waveformlighting](https://www.waveformlighting.com/high-cri-led)
     * ampoule
       * [ledvance](https://www.ledvance.fr/particuliers/sunathome)
+    * [square in circle](https://squareincircle.com)
     * [novy](https://www.novy.com/lighting)
     * [flos](https://professional.flos.com/en/global/catalogs/architectural/?isNew=true)
     * [glo-ball](https://flos.com/fr/fr/glo-ball-basic/M-glo-ball-basic.html?itemListName=Glo-Ball%20Family&itemListID=glo-ball-family)
@@ -367,6 +368,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [grau](https://www.grau.art/en)
     * [ovuud](https://www.ovuud.com)
     * [lodes](https://www.lodes.com/fr/produits/easy-peasy)
+    * [Jurie & Jarre](https://jurie-jarre.com)
     * [Jeremy Maxwell Wintrebert](https://jeremymaxwellwintrebert.com/wall-ceiling-light/venus-light)
     * [atelje Lyktan](https://www.ateljelyktan.se/en/home)
     * [diy #1](https://www.youtube.com/watch?v=07v06Xn9MWk&t=81s)
@@ -382,6 +384,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [NordLivingic](https://nordlivingic.com)
     * [Luke Lamp](https://www.lukelampco.com)
     * [yuer skyline](https://www.yuerlight.com)
+    * [kclighting](https://www.kclighting.hk/)
+    * [bo-ha](https://bo-ha.com)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -407,9 +411,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [hubsch](https://hubsch-interior.com)
     * [audo](https://audocph.com)
     * [mycs](https://fr.mycs.com)
+    * [poiat](https://poiat.com)
+    * [Yamazaki](https://theyamazakihome-europe.com)
   * console
     * [rawbrown](https://www.rawbrown.com)
     * [loia](https://loia.studio/en/collections/meubles)
+    * [Record Cabinets](https://www.etsy.com/shop/recordcabinets/?etsrc=sdt)
     * [moca](https://mocaline.com/product/framed/)
     * [rove concepts athena](https://www.roveconcepts.com/athena-sideboard?aid%5B64%5D=1498)
   * canapé
@@ -535,6 +542,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [monoware](https://www.monoware.com/products/brown-stoneware-ceramic-terra-coffee-tea-mugs)
         * [valerie_objects](https://valerie-objects.com/products/mug-light-grey-inner-circle)
         * [Yuko Nishikawa](https://www.yukonishikawa.com/shop-tableware/light-grey-white-reading-mug)
+        * [Angela Ly](https://www.alyceramics.com/shop)
       * couteau
         * info
           * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
@@ -608,6 +616,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [adone 40](https://www.reflexangelo.com/en/prodotto/122-adone-40)
     * [irony](https://www.riva1920.it/en/product/irony)
     * [litos](https://www.bonaldo.com/en/product/litos)
+    * [barousse works](https://barousseworks.com)
   * table de chevet
     * [rialto](https://www.riva1920.it/prodotto/rialto-night)
     * [diy #1](https://www.youtube.com/watch?v=qeqtbHt2tVU)
@@ -680,6 +689,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [eclisse](https://www.eclisse.fr/fr/produits/collection/classiques/porte-coulissante-acoustique-unique-32-db)
     * [picard](https://www.picard-serrures.com/global/fr)
     * [fichet](https://www.fichet-pointfort.com/fr/fr)
+    * [xinnix](https://www.xinnixdoorsystems.be)
   * entree
     * [genkan](https://en.wikipedia.org/wiki/Genkan)
   * etagere
@@ -712,6 +722,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [vasque](https://www.cedeo.fr/p/sanitaire/plan-de-toilette-zao-avec-double-vasque-120-cm-beton-hpl-A7309177)
     * [viega](https://www.viega.fr/fr/produits/themas/visign.html)
     * [riluxa](https://riluxa.com)
+    * [fima](https://fimacf.com/en/waterdot/)
     * chauffage
       * [tubes](https://www.tubesradiatori.com/fr/)
     * accessoire
@@ -843,9 +854,12 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Niruk cres](https://caussa.de/product/cres-mirror-blue-o-45-cm/)
     * [William Wood](https://www.williamwoodmirrors.co.uk/en-fr)
     * [oom](https://www.oomglass.com)
+    * [hannun Katia](https://hannun.com/fr/products/espejo-arco-de-pie-katia?objectID=8621390889297&queryID=undefined)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
+  * chauffe eau
+    * [teccontrol](https://teccontrol.fr/chauffe-eau-twido/)
   * isolation phonique
     * [dinachoc](https://www.dinachoc.fr)
     * [getzner](https://www.getzner.com/fr/produits/produits-pour-le-batiment/suspension-de-plafond)
@@ -923,6 +937,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [rinku](https://rinku.design/pages/copenhague)
     * [archea](https://archea.fr)
     * [owasinda](https://www.owasindadesign.com/shop)
+    * [rawww](https://rawww.fr/dernieres-realisations/)
   * isolation thermique
     * [va-q-tec va-Q-vip](https://www.va-q-tec.com/en/)
     * [steico](https://www.steico.com/fr)
@@ -992,6 +1007,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [woo](https://wooghost.com/pages/whos-woo)
     * [lorem.pdf](https://www.instagram.com/lorem.pdf/?hl=en)
     * [Yoann Bonneville](https://www.artsper.com/fr/oeuvres-d-art-contemporain/peinture/2154885/dragon-ball)
+    * [Victor Baroni](https://victorbaroni.fr)
     * [Toro](https://torogazze.com/)
     * [zcape](https://zcape.bigcartel.com)
     * [gell art](https://www.gell-art.com/shop/originals/)
@@ -1001,8 +1017,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Remi Cierco](https://www.remicierco.com/?page_id=114)
     * [atelier 58](https://www.atelier-58.nl/portfolio/)
     * [Nicholas Hernandez](https://www.nickhartist.com)
+    * [Kristof Montens](https://www.montens.be)
     * [mural wood sculpture](https://artdesigna.co/fr/products/terre-mere-bois-premium-fait-main-sculpture-murale-edition-limitee?ad_id=120210838244770247&campaign_id=120210838244780247&variant=43629133594877)
     * [Sylvain Piget](https://www.pigetart.com)
+    * [Daniel Pourrahmaty](https://danihandcraft.com)
     * [Weston Lambert](http://www.westonlambert.com)
     * [Matt Shlian](https://www.mattshlian.com/available)
     * [Dan "Nuge" Nguyen](http://nugewants.com/gallery)
@@ -1017,6 +1035,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [David Ambarzumjan](https://david-ambarzumjan.com)
     * [Isabella Agosti](https://www.inprnt.com/gallery/isabella_agosti/)
     * [Yulia Brodskaya](https://www.artyulia.co.uk/fine-art)
+    * [David Lee](https://www.greenlanegallery.com/artists/david-lee/)
     * [art of ping pong](https://theartofpingpong.co.uk/collections/artbats)
     * [Matt Shlian](https://www.mattshlian.com/2024)
     * [Helen Silva Chimura](https://www.instagram.com/mandalandoequilibrio)
@@ -1046,11 +1065,14 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [kelkin](https://www.artsper.com/lu/artistes-contemporains/france/17497/kelkin)
     * [warpsol](https://warpsol.com)
     * [supraw](https://supraw.com)
+    * [Marcela Once](https://www.marcelaonce.com)
     * [Christopher Uminga](https://uminga720.storenvy.com/)
     * [Iain Hurfer](https://www.hurferhandpainted.com)
     * [Kevin Boudreau](https://www.kbooart.com/?page=1&limit=30&sort_by=shop_all_order&sort_order=asc)
     * [Essential Sequential](https://essentialsequential.com)
+    * [Hannah Lipsey](https://www.hannahlipseyartist.co.uk)
     * [Boris Ipsum](https://www.karatekraken.com)
+    * [Alexandra Squire](https://www.alexandrasquireart.com)
     * [manz](https://www.instagram.com/_mr.manz_)
     * [TenHundred](https://tenhundredart.com/murals-1)
     * [Postera](https://postera.art)
@@ -1059,6 +1081,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [skateboardartsy](https://skateboardartsy.com)
     * [Joel Lawrence](https://www.joelawrencesculpture.com/product-page/fisherman-with-cigarette-and-an-anchor-tattoo-no4-bronze)
     * [Teenage Engineering](https://teenage.engineering)
+    * [coarse](https://coarse.gallery)
     * [Felix Hernandez](https://www.hernandezdreamphography.com/things)
     * [Yay Abe](https://www.yayabe.store)
     * [Arsek Erase](https://arsekerase.bigcartel.com)
@@ -1087,9 +1110,11 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Sebastiaan Knot](https://www.sebastiaanknot.nl/installations.html)
     * [Daphne Mistretta](https://daphnemistretta.com/collections/all)
     * [Elisa Estudio](https://elisaestudio.com)
+    * [cuicui](https://www.cuicui.shop)
     * [leah ideas](https://leahideas.com/fr)
     * [Yayoi Kusama](https://www.artsy.net/artist/yayoi-kusama)
     * [Julien Durix](https://juliendurix.com/en/collections/oeuvres-limitees)
+    * [Johanne Bossmann](https://www.etsy.com/de/shop/JohanneBossmann)
     * [nichecanvas](https://nichecanvas.com)
     * [wallart](https://wallart-studio.shop)
     * [metaleks _artsopolis](https://metaleks.com/products/ukiyo-artwok-by-artsopolis)
@@ -1111,6 +1136,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Terry Dodsona](https://www.terrydodsonart.com/)
     * [J Scott Campbell](https://jscottcampbell.com/)
     * [Jamal Campbell](https://www.jamalcampbell.com/)
+    * [Dav'Art](https://davi3d.sumupstore.com)
     * [Keith Haring](https://en.wikipedia.org/wiki/Keith_Haring)
     * [Craig Watkins](https://wottoart.com)
     * [EFX](https://efxcollectibles.com)
