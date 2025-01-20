@@ -860,6 +860,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [eaton 5PX G2 ups](https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-5px-g2.html)
   * rideau
     * [madura](https://www.madura.com/collections/rideau)
+    * [gotain](https://www.gotain.com/en)
   * miroir
     * [porada](https://www.porada.it/en/product/fortyfive)
     * [novamobili](https://www.novamobili.it/it/specchio-astrid)
