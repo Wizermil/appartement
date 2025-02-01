@@ -329,7 +329,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [tabata](https://www.nedgis.com/en/products/wall-light-tabata-black-l15cm-h21cm-andtradition)
     * [northern buddy](https://www.nedgis.com/en/products/wall-light-buddy-wall-white-led-l12cm-h17cm-northern-lighting)
     * [fermliving ruuvi](https://fermliving.com/products/ruuvi-lamp-blackened-iron)
+    * [anso mellow](https://anso-design.com/products/grande-lampe-mellow-creme)
     * [muuto beam](https://www.muuto.com/product/Beam-Table-Lamp--p2170/p2170/)
+    * [Atelier Stokowski](https://www.atelierstokowski.com/realisations-atelier-stokowski)
     * [Louis Poulsen silverback](https://www.louispoulsen.com/en/catalog/professional/architectural-lighting/surface/silverback-ceilingwall?v=91617-5743157053-01)
     * [spacecph lucca](https://spacecph.dk/lucca-for-tradition/)
     * [cvl calee](https://www.cvl-luminaires.fr/product/calee-applique/)
@@ -354,6 +356,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [stodeer](https://stodeer.com/products/stodeer-design-shop-interstellar-crossing-robot-art-deco-table-lamp-with-bauhaus-metal-atmosphere)
     * [eingang](https://eingangstudio.com)
     * [onfale](https://www.artemide.com/fr/subfamily/21586/onfale)
+    * [cosin charlotte](https://cosinparis.com/products/la-petite-lampe-charlotte-bleu?variant=51613442441565)
     * [tethys](https://tethys-design.com)
     * [prado](https://prado.eu)
     * [Iguzzini](https://www.iguzzini.com/fr/)
@@ -372,6 +375,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Jurie & Jarre](https://jurie-jarre.com)
     * [Jeremy Maxwell Wintrebert](https://jeremymaxwellwintrebert.com/wall-ceiling-light/venus-light)
     * [atelje Lyktan](https://www.ateljelyktan.se/en/home)
+    * [studio sahin](https://www.studio-sahin.com/shop)
     * [diy #1](https://www.youtube.com/watch?v=07v06Xn9MWk&t=81s)
     * [Patrick Zulauf](https://www.patrickzulauf.com/3906168/some)
     * [Lighting Design Studio](https://lightingdesignstudio.co.uk/kitchen-lighting)
@@ -393,6 +397,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Leslie Nooteboom Komorebi](https://leibal.com/lighting/komorebi/)
       * [igloo](https://www.lachambredami.com)
       * [luxea](https://ambiancedelux.com/products/luxea)
+      * [halo](https://www.haloedition.com)
   * enseigne décoration
     * [artmeta](https://www.artmeta.fr)
     * [Ligne Roset](https://www.ligne-roset.com/fr)
@@ -458,6 +463,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [jung](https://www.jung-group.com/en-UK/Products/)
     * [joseph giles](https://www.josephgiles.com/products/)
     * [Ged Kennett](https://gedkennett.co.uk)
+    * [mandelli](https://mandelli.it/en/)
   * lit
     * [reflex](https://www.reflexangelo.com/en/prodotto/wave-letto-xl)
     * [desiree](https://www.desiree.com/fr/produits/lits/hab-lit)
@@ -554,6 +560,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Angela Ly](https://www.alyceramics.com/shop)
         * [bien](https://bienconcept.paris)
         * [grace of glaze](https://www.graceofglaze.com)
+        * [manamo](https://www.manamo.fr)
       * couteau
         * info
           * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
@@ -587,13 +594,15 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * tabouret
     * [sharky](https://www.kristalia.it/en/products/sharky/#modal-sharky)
     * [curve](https://www.poliform.it/en/products/curve)
+    * [mwo](https://www.mwodesign.com/portfolio-collections/soundbounce/bounce-bench-1-5fdc90)
   * chaise de salon
     * [Paola Lenti Bask S](https://www.paolalenti.it/en/prodotto/basks-armchair)
     * [Antonio Citterio abc](https://www.flexform.it/en/products/indoor/all-products/armchairs/abc)
     * [Mario Capasa Bolla](https://mariocapasa.com/products/bolla-lounge-chair?variant=45487301361823)
     * [Togo](https://www.ligne-roset.com/fr/p/fauteuils/chauffeuse-togo-1177)
     * [cini boeri](https://www.knoll.com/media/246/422/CiniBoeriBrochure.pdf)
-    * [utrecht xl](https://www.cassina.com/ww/fr/products/utrecht-xl-pro.html)
+    * [babel brune](https://babelbrune.com/en/collections/fauteuil)
+    * [utrecht xl](https://www.cassina.com/ww/en/products/utrecht-xl.html)
     * [bend](https://www.ditreitalia.com/en/products/armchairs/bend)
     * [ahus](https://www.blastation.com/products/easy-chairs/ahus/ahus)
     * [kn04](https://www.knoll-int.com/kn-collection-by-knoll-kn04)
@@ -785,6 +794,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [EP1](https://shop.everythingsmart.io/en-fr/products/everything-presence-one-kit)
     * chargeur sans fil
       * [belkin BoostCharge Pro](https://www.belkin.com/fr/p/chargeur-%C3%A0-induction-avec-alignement-facile-15%C2%A0w/WIA007vfBK.html)
+      * [avolt](https://avolt.com)
     * [wago](https://www.wago.com/us/discover-wire-and-splicing-connectors)
     * [sbox](https://www.the-sbox.com)
     * prise invisible
@@ -874,6 +884,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [William Wood](https://www.williamwoodmirrors.co.uk/en-fr)
     * [oom](https://www.oomglass.com)
     * [hannun Katia](https://hannun.com/fr/products/espejo-arco-de-pie-katia?objectID=8621390889297&queryID=undefined)
+    * [william wood](https://www.williamwoodmirrors.co.uk/en-fr)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
@@ -1083,6 +1094,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [RBInterior](https://www.rbinterior.nl/en/art)
     * [Kübra Erguvan](https://www.artbykuebra.com/en)
     * [zcwostore](https://www.zcwostore.com)
+    * [Rep Ringel](https://www.repringel.com/details)
     * [DeMurin](https://demurin.com/?logged_in_customer_id=&lang=en)
     * [Andy Okay](https://andyokay.com/collections/just-released/products/super-shadow?variant=51030302556509&currency=EUR)
     * [turnedninja](https://turnedninja.com/collections/all-fanart)
@@ -1093,6 +1105,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Marcela Once](https://www.marcelaonce.com)
     * [Christopher Uminga](https://uminga720.storenvy.com/)
     * [Iain Hurfer](https://www.hurferhandpainted.com)
+    * [Monika Nowak](https://en.monika-nowak-art.com)
     * [Kevin Boudreau](https://www.kbooart.com/?page=1&limit=30&sort_by=shop_all_order&sort_order=asc)
     * [Essential Sequential](https://essentialsequential.com)
     * [Hannah Lipsey](https://www.hannahlipseyartist.co.uk)
@@ -1141,6 +1154,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Yayoi Kusama](https://www.artsy.net/artist/yayoi-kusama)
     * [Julien Durix](https://juliendurix.com/en/collections/oeuvres-limitees)
     * [Johanne Bossmann](https://www.etsy.com/de/shop/JohanneBossmann)
+    * [Cyrielle Gulacsy](https://www.cyriellegulacsy.com)
     * [nichecanvas](https://nichecanvas.com)
     * [wallart](https://wallart-studio.shop)
     * [Roi James](https://roijames.com)
