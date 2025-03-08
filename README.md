@@ -362,6 +362,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [eingang](https://eingangstudio.com)
     * [onfale](https://www.artemide.com/fr/subfamily/21586/onfale)
     * [cosin charlotte](https://cosinparis.com/products/la-petite-lampe-charlotte-bleu?variant=51613442441565)
+    * [Tristan Lohner Moon](https://www.tristanlohner.fr/product/mooon-suspension-simple/)
     * [tethys](https://tethys-design.com)
     * [prado](https://prado.eu)
     * [Iguzzini](https://www.iguzzini.com/fr/)
@@ -396,6 +397,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [yuer skyline](https://www.yuerlight.com)
     * [kclighting](https://www.kclighting.hk/)
     * [bo-ha](https://bo-ha.com)
+    * [FontanaArte pangen](https://www.fontanaarte.com/en/lighting/suspension-lamps/pangen-config-suspension-lamp.html)
+    * [panzeri](https://panzeri.it)
+    * [helio lights](https://helio-lights.com)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -556,6 +560,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [mauviel](https://www.mauviel-boutique.com)
       * [caraway](https://www.carawayhome.com/products/cookware-sets/?color=sage)
       * [xtrema](https://xtrema.com/products/signature-skillet?variant=42048549355714)
+      * vaisselle
+        * [kinto](https://kinto-europe.com/collections/tableware)
       * mug/ceramique
         * [ono mao](https://onomao.com/en-fr/collections/mugs-cups)
         * [serax](https://serax.com/products/mug-alabaster-dune)
@@ -617,6 +623,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [le club](https://www.poliform.it/en/products/le-club)
     * [101cph](https://101cph.com/collections/furniture/products/toe-chair-flat-taupe-pallazo-163)
     * [Thomas Bentzen](https://www.muuto.com/product/Cover-Lounge-Chair--p2610/18071/?_t_id=eEg49dE-d4w88Q02xxroIA%3d%3d&_t_q=COVER+LOUNGE+CHAIR&_t_tags=andquerymatch%2clanguage%3aen%2csiteid%3aa5f62cc5-c236-4941-bc7b-78c9dfa45ac1&_t_hit.id=Muuto_Website_Models_Catalog_Variant%2fCatalogContent_114cc949-fd4d-4508-9b3f-bf8f80540b2b_en&_t_hit.pos=1)
+    * [Tristan Lohner Auguste](https://www.tristanlohner.fr/product/auguste-fauteuil/)
+    * [norr11 boho](https://norr11.com/products/boho-chair)
     * [Antarte by IA](https://antarte.pt/fr/produit/ia005v200-fauteuil-antarte-by-ia)
   * chaise
     * [Durham](https://www.kidwellfabrications.com/chairs)
@@ -629,6 +637,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Lucas Wotawa](https://www.lucaswotawa.com/)
     * [Claus Breinholt freya](https://www.infinitidesign.it/en/product/freya/)
     * [Eames DCW](https://www.vitra.com/fr-fr/product/details/plywood-group-dcw)
+    * [Tristan Lohner](https://www.tristanlohner.fr/product/event-chaise-v1/)
   * etagere
     * [vitsoe](https://www.vitsoe.com/eu/606)
     * [usm](https://www.usm.com/en/office/homepage)
@@ -646,6 +655,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [litos](https://www.bonaldo.com/en/product/litos)
     * [barousse works](https://barousseworks.com)
     * [nv highland](https://www.nvgallery.com/fr-fr/product/BDLCOFHIGAC001/highland-table-basse-x2-ac-travertin-bois-frene-teinte-noyer)
+    * [De Stijl L Marble](https://www.creande.com/products/de-stijl-l-marble-low-coffee-table)
   * banc
     * [museum Giulio Lazzotti](https://www.infinitidesign.it/en/product/museum/)
   * table de chevet
@@ -734,6 +744,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [swiss](https://commerce.sbb.ch/fr/horloges-de-gare/horloges-murales.html?product_list_order=price)
     * [braun](https://de.braun-clocks.com/collections/analogue-clocks/products/bc26-braun-analogue-european-radio-controlled-wall-clock-black)
     * [humans since 1982](https://www.humanssince1982.com/en-eu)
+    * [sternglas zirkel](https://www.sternglas.com/products/clock-zirkel-white)
     * bureau
       * [seiko](https://www.seikoclocksusa.com/collections/qhl062ylh/)
   * reveil
@@ -743,6 +754,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Nani Marquina](https://nanimarquina.com)
     * [layered](https://layeredinterior.com/shop?funk2=startsida&funk=inst_val_sprak&Valuta_ID=EUR)
     * [toulemonde bochart](https://toulemondebochart.fr)
+    * [colbourns](https://colbourns.com)
+    * [nordic knots](https://nordicknots.com)
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
     * [kast](https://kastconcretebasins.com)
@@ -794,6 +807,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [vola](https://en.vola.com/catalog)
     * [zucchetti](https://www.zucchettidesign.it/en)
     * [duten](https://www.duten.com)
+    * [cea](https://www.ceadesign.it)
+    * [tots](https://www.tots.fr)
+    * [nobili](https://www.nobili.it)
   * electricite
     * automatisation
       * [home assistant](https://www.home-assistant.io/)
@@ -807,6 +823,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * chargeur sans fil
       * [belkin BoostCharge Pro](https://www.belkin.com/fr/p/chargeur-%C3%A0-induction-avec-alignement-facile-15%C2%A0w/WIA007vfBK.html)
       * [avolt](https://avolt.com)
+      * [poqq](https://poqq.eu/)
     * [wago](https://www.wago.com/us/discover-wire-and-splicing-connectors)
     * [sbox](https://www.the-sbox.com)
     * prise invisible
@@ -883,6 +900,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * rideau
     * [madura](https://www.madura.com/collections/rideau)
     * [gotain](https://www.gotain.com/en)
+    * [nordic knots](https://nordicknots.com)
   * miroir
     * [porada](https://www.porada.it/en/product/fortyfive)
     * [novamobili](https://www.novamobili.it/it/specchio-astrid)
@@ -897,6 +915,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [oom](https://www.oomglass.com)
     * [hannun Katia](https://hannun.com/fr/products/espejo-arco-de-pie-katia?objectID=8621390889297&queryID=undefined)
     * [william wood](https://www.williamwoodmirrors.co.uk/en-fr)
+    * [falper](https://falper.it/en/)
   * pompes a chaleur
     * [amzair](https://www.amzair.eu/nos-pompes-a-chaleur/pompe-a-chaleur-optim_duo-2)
     * [panasonic aquarea](https://www.aircon.panasonic.eu/FR_fr/ranges/aquarea/aquarea-ecoflex/)
@@ -982,6 +1001,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [rawww](https://rawww.fr/dernieres-realisations/)
     * [Aymeric Lefort](https://www.aymeric-lefort.com)
     * [Pelletier](https://www.menuiserie-pelletier-77.fr)
+    * [menuisol](https://menuisol-idf.com/index.php/nos-realisations/)
   * isolation thermique
     * [va-q-tec va-Q-vip](https://www.va-q-tec.com/en/)
     * [steico](https://www.steico.com/fr)
@@ -1021,6 +1041,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [plasdox](https://www.plasdox.com)
     * [mildecor](https://www.mildecor.fr/boutique/peinture-interieur)
     * [sherwin williams mist sw 9166](https://plan-home.com/color/drift-of-mist-sw-9166)
+    * enduit
+      * [Baixens Rualaix](https://www.baixens.com/produits/mastics-et-enduits)
   * art
     * ceramique
       * [ikiwa](https://www.atelierikiwa.com/en/collections/coree-du-sud/products/jarre-de-lune-moon-jar-coreenne-en-porcelaine-blanche)
@@ -1120,6 +1142,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [BYCMP](https://www.bycparker.com)
         * [Julien Durix](https://juliendurix.com/en/collections/oeuvres-limitees)
         * [Helio Bray](https://www.heliobray.com/pages/shows/shows-d4bhsnhl)
+        * [Jonah Ballard](https://thepaintedladies.org/collections)
         * papier
           * [Yulia Brodskaya](https://www.artyulia.co.uk/fine-art)
       * ville
@@ -1156,6 +1179,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Bomb Ink](https://bombink.thebase.in)
       * [Craig Watkins](https://wottoart.com)
       * [Andre Saraiva](https://www.mrandre.com/shop)
+      * [Romain Aubry](https://www.artmajeur.com/niamor)
       * skateboard
         * [artdesigna](https://artdesigna.co/fr/products/tokyo-painting-colorful-glass-wall-art?variant=48303090663762&campaign_id=120210838244780247&ad_id=120210838244770247)
         * [skateboardartsy](https://skateboardartsy.com)
@@ -1177,6 +1201,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Luciteria Science](https://www.luciteria.com/metal-cubes)
       * basket
         * [Comrade](https://www.comrade-berlin.com)
+        * [Trajectoire Studio](https://trajectoire-studio.com/categories/)
       * sculture
         * [zcwostore](https://www.zcwostore.com)
         * [coarse](https://coarse.gallery)
@@ -1191,6 +1216,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [VideoGameToy](https://www.videogametoy.com)
         * [Sinead](https://cuttingedgedesigns.co.nz)
       * affiche / poster
+        * [Guy Gee](https://guygee.com/en-fr/collections/terence-stamps)
         * [L'affiche](https://affiches-francaises.com)
         * [Postera](https://postera.art)
         * [drool](https://drool-art.com/collections/prints?ad_id=6603250227006&campaign_id=6501421150006&page=2&retargetingAudience=new_customer)
@@ -1228,6 +1254,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Isabella Agosti](https://www.inprnt.com/gallery/isabella_agosti/)
       * [Arsek Erase](https://arsekerase.bigcartel.com)
       * [warpsol](https://warpsol.com)
+      * [Olivier Menanteau](https://möön.fr/projects)
       * [Matt Dixon](https://www.mattdixon.co.uk)
       * [Mona Finden](https://www.monafinden.com)
       * [Mr Barghest](https://www.instagram.com/mrbarghest)
@@ -1235,5 +1262,6 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Guilherme Asthma](https://www.behance.net/guilhermeasthma/projects)
       * [Eor Glas](https://www.eorglas.fr/boutique)
       * [Francisco Fonsca](https://www.etsy.com/shop/FranciscoFonscaShop?load_webview=1&bid=IYWghFrnzXJ2IXoJ4AIM4yoXhJgH)
+      * [Vincent Lelievre](https://www.vincentlelievre.com)
       * portrait
         * [Jamie Hewlett](https://jamiehewlett.com/collections/warriors)
