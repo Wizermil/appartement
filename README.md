@@ -338,6 +338,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Louis Poulsen silverback](https://www.louispoulsen.com/en/catalog/professional/architectural-lighting/surface/silverback-ceilingwall?v=91617-5743157053-01)
     * [spacecph lucca](https://spacecph.dk/lucca-for-tradition/)
     * [cvl calee](https://www.cvl-luminaires.fr/product/calee-applique/)
+    * [Youth Editions maé](https://youtheditions.fr/fr/collection/mae)
     * [Louis Poulsen njp](https://www.louispoulsen.com/fr-be/catalog/private/lampes-de-table/njp-table?v=91648-5744164744-01)
     * [Verner Panton flowerpot](https://www.andtradition.com/products/flowerpot-vp12)
     * [disderot j13](https://disderot.com/en/produit/lampe-j13/)
@@ -400,6 +401,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [FontanaArte pangen](https://www.fontanaarte.com/en/lighting/suspension-lamps/pangen-config-suspension-lamp.html)
     * [panzeri](https://panzeri.it)
     * [helio lights](https://helio-lights.com)
+    * [Jamie Harris](https://www.jamieharris.com/custom-lighting)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -756,6 +758,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [toulemonde bochart](https://toulemondebochart.fr)
     * [colbourns](https://colbourns.com)
     * [nordic knots](https://nordicknots.com)
+    * [benuta](https://www.benuta.fr)
+    * [son tapis](https://www.son-tapis.com)
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
     * [kast](https://kastconcretebasins.com)
@@ -901,6 +905,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [madura](https://www.madura.com/collections/rideau)
     * [gotain](https://www.gotain.com/en)
     * [nordic knots](https://nordicknots.com)
+    * rail
+      * [SilentGliss](https://www.silentgliss.fr/frfr/)
   * miroir
     * [porada](https://www.porada.it/en/product/fortyfive)
     * [novamobili](https://www.novamobili.it/it/specchio-astrid)
@@ -1015,16 +1021,23 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [fisher](https://www.fischer-international.com/en/products/standard-fixings/plastic-fixings/duopower)
     * [siga](https://www.siga.swiss/fr_fr/produits)
   * traitement de l'air
-    * [iqair](https://www.iqair.com/fr/whole-house-air-purifiers)
-    * [klimea](https://klimea.com)
-    * [panasonic nanoe x](https://www.aircon.panasonic.eu/FR_fr/happening/nanoe-x-quality-air-for-life)
-    * [envisivent](https://www.envisivent.com)
-    * [panasonic air purification](https://na.panasonic.com/ca/indoor-air-quality/fresh-ventilation-filtration/air-purifiers/whisperair-repairr-air-purification)
-    * [ventigo](https://www.ventigo.fr/fr_FR/p/bouche-de-ventilation-sans-cadre-encastrable-carree-%C3%B8-125-mm/18709)
-    * [ubbink](https://www.ubbink.com/fr/nos-produits/ventilation/vmc-et-cet/conduits-pour-vmc-et-cet)
-    * [renson](https://renson.net/fr-fr/produits/ventilation/ventilation-mecanique-controlee/ventilation-d)
-    * [brink](https://www.brinkclimatesystems.fr/vmc-double-flux/vmc-double-flux/purification-de-lair-pure-induct)
-    * [acinfinity closet](https://acinfinity.com/closet-room-fan-systems)
+    * climatiseur
+      * [klimea](https://klimea.com)
+      * [panasonic nanoe x](https://www.aircon.panasonic.eu/FR_fr/happening/nanoe-x-quality-air-for-life)
+    * filtre
+      * [iqair](https://www.iqair.com/fr/whole-house-air-purifiers)
+      * [panasonic air purification](https://iaq.na.panasonic.com/purification/whisperair-repair)
+    * ventilateur
+      * [acinfinity closet](https://acinfinity.com/closet-room-fan-systems)
+    * vmc
+      * [renson](https://renson.net/fr-fr/produits/ventilation/ventilation-mecanique-controlee/ventilation-d)
+      * [brink](https://www.brinkclimatesystems.fr/vmc-double-flux/vmc-double-flux/purification-de-lair-pure-induct)
+    * conduit vmc
+      * [ubbink](https://www.ubbink.com/fr/nos-produits/ventilation/vmc-et-cet/conduits-pour-vmc-et-cet)
+    * bouche ventilation
+      * [envisivent](https://www.envisivent.com)
+      * [finitionsplatre](https://finitionsplatre.fr/collections/bouche-ventilation-affleurante)
+      * [ventigo](https://www.ventigo.fr/fr_FR/p/bouche-de-ventilation-sans-cadre-encastrable-carree-%C3%B8-125-mm/18709)
   * isolation hydrique
     * [schluter](https://eu.schluter.com/fr-FR)
     * [jackon](https://www.jackon-insulation.fr/produits/detail/jackoboard-plano)
@@ -1043,6 +1056,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [sherwin williams mist sw 9166](https://plan-home.com/color/drift-of-mist-sw-9166)
     * enduit
       * [Baixens Rualaix](https://www.baixens.com/produits/mastics-et-enduits)
+      * [toupret](https://toupret.com/fr)
+      * [semin](https://www.semin.com/)
   * art
     * ceramique
       * [ikiwa](https://www.atelierikiwa.com/en/collections/coree-du-sud/products/jarre-de-lune-moon-jar-coreenne-en-porcelaine-blanche)
@@ -1053,6 +1068,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Disrupted Clay](https://disruptedclay.com)
       * [James Oughtibridge](https://courses.jamesoughtibridgesculpture.co.uk/product-category/ceramics/)
       * [Vagabond Creation](https://vagabondecreation.fr/en/product-category/poterie)
+      * [Matt Horne](https://www.matthornepottery.co.uk)
     * textile
       * [sosaku](https://sosakujapan.com)
       * [vangart](https://vangart.fr)
@@ -1065,6 +1081,9 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Just Glass It](https://www.justglassit.fr)
       * [Melissa Misoda](https://www.melissamisoda.com/shop)
       * [Weston Lambert](http://www.westonlambert.com)
+      * [Sebastian Herkner](https://eu.nudeglass.com/products/ecrin-lidded-vessel-large)
+    * ebenisterie
+      * [atelier c.u.b](https://www.ateliercub.com/atelier-c-u-b-collection/la-piscine/)
     * calligraphie
       * [woo](https://wooghost.com/pages/whos-woo)
       * [Tom Kiewra](https://www.tomkiewra.com)
@@ -1143,6 +1162,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Julien Durix](https://juliendurix.com/en/collections/oeuvres-limitees)
         * [Helio Bray](https://www.heliobray.com/pages/shows/shows-d4bhsnhl)
         * [Jonah Ballard](https://thepaintedladies.org/collections)
+        * [Turli Tu](https://www.turlitu.com)
         * papier
           * [Yulia Brodskaya](https://www.artyulia.co.uk/fine-art)
       * ville
@@ -1215,6 +1235,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Julien Mikhel](https://www.julienmikhel.com/galerie)
         * [VideoGameToy](https://www.videogametoy.com)
         * [Sinead](https://cuttingedgedesigns.co.nz)
+        * [Paulina Stepien](https://www.etsy.com/shop/nazarovnia)
       * affiche / poster
         * [Guy Gee](https://guygee.com/en-fr/collections/terence-stamps)
         * [L'affiche](https://affiches-francaises.com)
