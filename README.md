@@ -402,6 +402,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [panzeri](https://panzeri.it)
     * [helio lights](https://helio-lights.com)
     * [Jamie Harris](https://www.jamieharris.com/custom-lighting)
+    * [Tom Dixon](https://www.tomdixon.net/eu/shop/lighting.html)
+    * [allied maker](https://www.alliedmaker.com)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -460,21 +462,24 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Cecilie Manz Pouf](https://www.fritzhansen.com/en/categories/by-series/pouf/pouflarge?sku=840299)
     * [knot](https://www.designhousestockholm.com/global/knot-cushion?color=524&size=277)
     * [fatboy](https://www.fatboy.com)
-  * interrupteur/poignee
+  * interrupteur
     * [Buster and Punch](https://www.busterandpunch.com/us)
     * [corston](https://www.corston.fr/pages/interrupteurs-et-prises)
-    * [Karl Hoffmann](https://www.karlhoffmann.fr/product/cappucinedore)
-    * [EH](https://explorehardware.com)
-    * [plank](https://plankhardware.com/collections/knobs/3-style_industrial?sort_by=manual)
     * [meljac](https://www.meljac.com/produits/)
     * [modelec](https://www.modelec.com/)
     * [also & co](https://alsoandco.com)
     * [alphaplate](https://www.alphaplate.it)
     * [6ixtes](https://www.6ixtes.com)
     * [jung](https://www.jung-group.com/en-UK/Products/)
+  * poignee
+    * [Karl Hoffmann](https://www.karlhoffmann.fr/product/cappucinedore)
+    * [plank](https://plankhardware.com/collections/knobs/3-style_industrial?sort_by=manual)
+    * [EH](https://explorehardware.com)
     * [joseph giles](https://www.josephgiles.com/products/)
-    * [Ged Kennett](https://gedkennett.co.uk)
     * [mandelli](https://mandelli.it/en/)
+    * [valli](https://www.vallihandles.com/export/en)
+    * [Ged Kennett](https://gedkennett.co.uk)
+    * [olivari](https://www.olivari.it/en/#)
   * lit
     * [reflex](https://www.reflexangelo.com/en/prodotto/wave-letto-xl)
     * [desiree](https://www.desiree.com/fr/produits/lits/hab-lit)
@@ -564,6 +569,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [xtrema](https://xtrema.com/products/signature-skillet?variant=42048549355714)
       * vaisselle
         * [kinto](https://kinto-europe.com/collections/tableware)
+        * [tabaya](https://tabaya-unitedarrows.com/en-fr)
       * mug/ceramique
         * [ono mao](https://onomao.com/en-fr/collections/mugs-cups)
         * [serax](https://serax.com/products/mug-alabaster-dune)
@@ -628,6 +634,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Tristan Lohner Auguste](https://www.tristanlohner.fr/product/auguste-fauteuil/)
     * [norr11 boho](https://norr11.com/products/boho-chair)
     * [Antarte by IA](https://antarte.pt/fr/produit/ia005v200-fauteuil-antarte-by-ia)
+    * [nv gallery - neo](https://www.nvgallery.com/be-fr/product/ARMCSRYEYE001/neo-fauteuil-tweed-jaune-miami)
+    * [maison jeudi](https://maisonjeudi.com)
   * chaise
     * [Durham](https://www.kidwellfabrications.com/chairs)
     * [combo](https://arde.dk/combo/)
@@ -647,7 +655,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [pattern](https://kumikowoodworking.com/design)
     * [string furniture pira g2](https://www.stringfurniture.com/fr-fr/products/pira-g2)
     * [tylko](https://tylko.com/fr-fr/)
-    * [knoll credenza](https://www.knoll-int.com/home/by-designer/classic-designers/florence-knoll/florence-knoll-credenza---new-edition))
+    * [knoll credenza](https://www.knoll-int.com/home/by-designer/classic-designers/florence-knoll/florence-knoll-credenza---new-edition)
+    * [cruso](https://cruso.com/collections/rangement)
   * table basse
     * [noguchi](https://www.hermanmiller.com/products/tables/occasional-tables/noguchi-table)
     * [simona](https://www.blancdivoire.com/fr/table-basse-simona-chene-clair-5912.html)
@@ -695,6 +704,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
   * sol
     * [Atelier Zelij bejmat vert](https://zelij.com/produit/bejmat-tc03-vert/)
     * [design parquet](https://www.designparquet.com/parquets)
+    * [belgiqa](https://www.belgiqa.com/fr/parquet)
     * [torchio](https://www.torchio.fr/produits/carrelage-886.html)
     * [tokyo tatami mat](https://japanese-tatamimat.com/)
     * [morita tatami mat](https://www.tatami-mat.net/france.html)
@@ -760,6 +770,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [nordic knots](https://nordicknots.com)
     * [benuta](https://www.benuta.fr)
     * [son tapis](https://www.son-tapis.com)
+    * [Maison Chaix](https://www.maisonchaix.fr)
+    * [perennials](https://www.perennialsfabrics.com/fr/products/rugs/)
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
     * [kast](https://kastconcretebasins.com)
@@ -814,6 +826,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [cea](https://www.ceadesign.it)
     * [tots](https://www.tots.fr)
     * [nobili](https://www.nobili.it)
+    * [ondyna](https://catalog.ondyna.fr/famille/salle-de-bains/robinetterie)
   * electricite
     * automatisation
       * [home assistant](https://www.home-assistant.io/)
@@ -1008,6 +1021,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Aymeric Lefort](https://www.aymeric-lefort.com)
     * [Pelletier](https://www.menuiserie-pelletier-77.fr)
     * [menuisol](https://menuisol-idf.com/index.php/nos-realisations/)
+    * [georges furniture](http://georgesfurniture.fr)
   * isolation thermique
     * [va-q-tec va-Q-vip](https://www.va-q-tec.com/en/)
     * [steico](https://www.steico.com/fr)
@@ -1020,6 +1034,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [clark dietrich](https://www.clarkdietrich.com/products/strait-flex-introduction)
     * [fisher](https://www.fischer-international.com/en/products/standard-fixings/plastic-fixings/duopower)
     * [siga](https://www.siga.swiss/fr_fr/produits)
+    * [schlegel](https://www.schlegel.com)
   * traitement de l'air
     * climatiseur
       * [klimea](https://klimea.com)
@@ -1069,6 +1084,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [James Oughtibridge](https://courses.jamesoughtibridgesculpture.co.uk/product-category/ceramics/)
       * [Vagabond Creation](https://vagabondecreation.fr/en/product-category/poterie)
       * [Matt Horne](https://www.matthornepottery.co.uk)
+      * [Barbara Lormelle](https://www.barbaralormelle.com/)
     * textile
       * [sosaku](https://sosakujapan.com)
       * [vangart](https://vangart.fr)
@@ -1163,6 +1179,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Helio Bray](https://www.heliobray.com/pages/shows/shows-d4bhsnhl)
         * [Jonah Ballard](https://thepaintedladies.org/collections)
         * [Turli Tu](https://www.turlitu.com)
+        * [Marinus van Hall](https://marinusvanhall.com)
         * papier
           * [Yulia Brodskaya](https://www.artyulia.co.uk/fine-art)
       * ville
@@ -1236,6 +1253,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [VideoGameToy](https://www.videogametoy.com)
         * [Sinead](https://cuttingedgedesigns.co.nz)
         * [Paulina Stepien](https://www.etsy.com/shop/nazarovnia)
+        * [monk's models](https://www.monksmodels.com)
       * affiche / poster
         * [Guy Gee](https://guygee.com/en-fr/collections/terence-stamps)
         * [L'affiche](https://affiches-francaises.com)
