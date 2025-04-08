@@ -868,6 +868,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [valerion VisionMaster](https://www.valerion.com)
     * support motorize projecteur
       * [avconcept](https://www.avconceptproducts.com/produit/support-motorise-alulifthc)
+      * [unitech plc v6.1](https://www.unitech-systems.eu/products/products-for-projectors/projector-lifts-pl/projector-ceiling-lifts-plc/new-the-slimmest-projector-ceiling-lift-plc-v6-1)
     * lecteur video
       * [zidoo UHD8000](https://www.zidoo.tv/Product/index/model/UHD8000/target/GmOiCZnWE6feq7k9e%5Bld%5D3ulg%3D%3D.html)
     * audio: option#1 numerique
