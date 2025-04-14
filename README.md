@@ -404,6 +404,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Jamie Harris](https://www.jamieharris.com/custom-lighting)
     * [Tom Dixon](https://www.tomdixon.net/eu/shop/lighting.html)
     * [allied maker](https://www.alliedmaker.com)
+    * [Shawn Lucas](https://www.shawnmlucas.com/lamps)
     * ambiante
       * [light cognitive](https://www.lightcognitive.com/)
       * [be water lamp](https://www.waw-collection.com/portfolio/be-water-lamp/)
@@ -462,6 +463,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Cecilie Manz Pouf](https://www.fritzhansen.com/en/categories/by-series/pouf/pouflarge?sku=840299)
     * [knot](https://www.designhousestockholm.com/global/knot-cushion?color=524&size=277)
     * [fatboy](https://www.fatboy.com)
+    * [boa](https://hem.com/en-eu/furniture/sofas-and-poufs/boa/30494)
   * interrupteur
     * [Buster and Punch](https://www.busterandpunch.com/us)
     * [corston](https://www.corston.fr/pages/interrupteurs-et-prises)
@@ -567,6 +569,10 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [mauviel](https://www.mauviel-boutique.com)
       * [caraway](https://www.carawayhome.com/products/cookware-sets/?color=sage)
       * [xtrema](https://xtrema.com/products/signature-skillet?variant=42048549355714)
+      * couverts
+        * [serax](https://serax.com/fr/collections/couverts-couteaux)
+        * [gense](https://www.gensestore.com/eu/products/cutlery/)
+        * [sabre](https://sabre-paris.com)
       * vaisselle
         * [kinto](https://kinto-europe.com/collections/tableware)
         * [tabaya](https://tabaya-unitedarrows.com/en-fr)
@@ -671,6 +677,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [museum Giulio Lazzotti](https://www.infinitidesign.it/en/product/museum/)
   * table de chevet
     * [rialto](https://www.riva1920.it/prodotto/rialto-night)
+    * [the masie](https://www.themasie.com/fr/acheter-tables-de-chevet/183765-table-de-nuit-xl-avec-tiroir-en-manguier-61x455-cm-vanile.html?id_c=460815)
     * [diy #1](https://www.youtube.com/watch?v=qeqtbHt2tVU)
   * pied de haut-parleur
     * [stativ](https://argonaudio.com/products/stativ-62)
@@ -1086,6 +1093,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Vagabond Creation](https://vagabondecreation.fr/en/product-category/poterie)
       * [Matt Horne](https://www.matthornepottery.co.uk)
       * [Barbara Lormelle](https://www.barbaralormelle.com/)
+      * [Angela Ly](https://www.alyceramics.com/galerie)
     * textile
       * [sosaku](https://sosakujapan.com)
       * [vangart](https://vangart.fr)
@@ -1218,6 +1226,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Craig Watkins](https://wottoart.com)
       * [Andre Saraiva](https://www.mrandre.com/shop)
       * [Romain Aubry](https://www.artmajeur.com/niamor)
+      * [Ben Zac](https://www.betterartworks.com/fr/category/all-products)
       * skateboard
         * [artdesigna](https://artdesigna.co/fr/products/tokyo-painting-colorful-glass-wall-art?variant=48303090663762&campaign_id=120210838244780247&ad_id=120210838244770247)
         * [skateboardartsy](https://skateboardartsy.com)
