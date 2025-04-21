@@ -324,6 +324,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [polyluma](https://polyluma.com/en-de/)
     * [square in circle](https://squareincircle.com)
     * [novy](https://www.novy.com/lighting)
+    * [Lighting Times](https://www.from.lighting/shop/times-3052#attribute_values=1)
+    * [Lighting ab-06](https://www.from.lighting/shop/ab-06-3071#attribute_values=2)
     * [flos](https://professional.flos.com/en/global/catalogs/architectural/?isNew=true)
     * [glo-ball](https://flos.com/fr/fr/glo-ball-basic/M-glo-ball-basic.html?itemListName=Glo-Ball%20Family&itemListID=glo-ball-family)
     * [normcph milk](https://normcph.com/project/milk-lamp/)
@@ -576,6 +578,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * vaisselle
         * [kinto](https://kinto-europe.com/collections/tableware)
         * [tabaya](https://tabaya-unitedarrows.com/en-fr)
+        * verre
+          * [bodum pavina](https://www.bodum.com/fr/fr/4560-10-12-pavina)
       * mug/ceramique
         * [ono mao](https://onomao.com/en-fr/collections/mugs-cups)
         * [serax](https://serax.com/products/mug-alabaster-dune)
@@ -654,6 +658,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Claus Breinholt freya](https://www.infinitidesign.it/en/product/freya/)
     * [Eames DCW](https://www.vitra.com/fr-fr/product/details/plywood-group-dcw)
     * [Tristan Lohner](https://www.tristanlohner.fr/product/event-chaise-v1/)
+    * [ton merano](https://www.ton.eu/en/merano-chair-modern-classic)
   * etagere
     * [vitsoe](https://www.vitsoe.com/eu/606)
     * [usm](https://www.usm.com/en/office/homepage)
@@ -663,6 +668,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [tylko](https://tylko.com/fr-fr/)
     * [knoll credenza](https://www.knoll-int.com/home/by-designer/classic-designers/florence-knoll/florence-knoll-credenza---new-edition)
     * [cruso](https://cruso.com/collections/rangement)
+    * [strackk](https://www.strackk.com/)
   * table basse
     * [noguchi](https://www.hermanmiller.com/products/tables/occasional-tables/noguchi-table)
     * [simona](https://www.blancdivoire.com/fr/table-basse-simona-chene-clair-5912.html)
@@ -673,11 +679,15 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [barousse works](https://barousseworks.com)
     * [nv highland](https://www.nvgallery.com/fr-fr/product/BDLCOFHIGAC001/highland-table-basse-x2-ac-travertin-bois-frene-teinte-noyer)
     * [De Stijl L Marble](https://www.creande.com/products/de-stijl-l-marble-low-coffee-table)
+    * [Marlot Baus - foggia](https://marlotbaus.com/en/products/foggia-coffee-table)
+    * [Marlot Baus - cinzia](https://marlotbaus.com/en/products/cinzia-coffe-table)
+    * [metallbude](https://metallbude.com/en/collections/living-room/products/cut-coffee-table)
   * banc
     * [museum Giulio Lazzotti](https://www.infinitidesign.it/en/product/museum/)
   * table de chevet
     * [rialto](https://www.riva1920.it/prodotto/rialto-night)
     * [the masie](https://www.themasie.com/fr/acheter-tables-de-chevet/183765-table-de-nuit-xl-avec-tiroir-en-manguier-61x455-cm-vanile.html?id_c=460815)
+    * [UTIL Plié](https://thisisutil.com/pt/products/plie-side-table-double-drawers)
     * [diy #1](https://www.youtube.com/watch?v=qeqtbHt2tVU)
   * pied de haut-parleur
     * [stativ](https://argonaudio.com/products/stativ-62)
@@ -926,6 +936,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [madura](https://www.madura.com/collections/rideau)
     * [gotain](https://www.gotain.com/en)
     * [nordic knots](https://nordicknots.com)
+    * [dedar](https://dedar.com/magnolia/)
     * rail
       * [SilentGliss](https://www.silentgliss.fr/frfr/)
   * miroir
@@ -1196,6 +1207,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * paysage
         * [Jochen Muehlenbrin](https://www.jochen-muehlenbrink.com/works/)
         * [David Ambarzumjan](https://david-ambarzumjan.com)
+        * [Jason Anderson](https://jasonandersonartist.com)
       * [Hannah Lipsey](https://www.hannahlipseyartist.co.uk)
       * [Yayoi Kusama](https://www.artsy.net/artist/yayoi-kusama)
       * [Keith Haring](https://en.wikipedia.org/wiki/Keith_Haring)
