@@ -445,6 +445,8 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Record Cabinets](https://www.etsy.com/shop/recordcabinets/?etsrc=sdt)
     * [moca](https://mocaline.com/product/framed/)
     * [rove concepts athena](https://www.roveconcepts.com/athena-sideboard?aid%5B64%5D=1498)
+    * [termino](https://termino.gmbh/products/low-sideboard-01)
+    * [fe sonar](https://form-eisen.at/collections/bestsellers/products/modul-sonar)
   * canapé
     * [Jasper Morrison](https://www.vitra.com/fr-be/product/details/soft-modular-sofa-3)
     * [Berto Modular](https://www.bertosalotti.fr/canapes_modulables)
@@ -461,6 +463,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [dion](https://dion.eu/en-sofas)
     * [vetsak](https://fr.vetsak.com/collections/sofa-products)
     * [Ray Wilkes](https://www.hermanmiller.com/en_eur/products/seating/lounge-seating/wilkes-modular-sofa-group/)
+    * [B&B Dambodue](https://www.bebitalia.com/en-fr/en-dambodue-divani.html)
   * pouf
     * [Cecilie Manz Pouf](https://www.fritzhansen.com/en/categories/by-series/pouf/pouflarge?sku=840299)
     * [knot](https://www.designhousestockholm.com/global/knot-cushion?color=524&size=277)
@@ -549,10 +552,11 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [klima](https://www.klimaitalia.it/undefined/settori/wine/frigo-vini/vinarius-40-gry)
     * robot
       * [xbloom coffee](https://xbloom.com/)
+      * [fellow aiden](https://fellowproducts.com/products/aiden-precision-coffee-maker)
       * [varia](https://www.variabrewing.com)
       * [us-tronic transfo 100V](https://us-tronic.com/collections/transformateurs-100-volts/products/transformateur-pour-utiliser-des-appareils-japonais-consommant-jusqua-1500-watts-1)
       * [zojirushi rice cooker](https://www.zojirushi.co.jp/syohin/rice/ricecooker/nw-fb/#container)
-      * [kettle](https://fellowproducts.com/products/corvo-ekg-pro-electric-kettle-studio-edition?pr_prod_strat=e5_desc&pr_rec_id=bddfafd5e&pr_rec_pid=7169135738980&pr_ref_pid=6974325129316&pr_seq=uniform&variant=41591159423076)
+      * [fellow kettle](https://fellowproducts.com/products/corvo-ekg-pro-electric-kettle-studio-edition?pr_prod_strat=e5_desc&pr_rec_id=bddfafd5e&pr_rec_pid=7169135738980&pr_ref_pid=6974325129316&pr_seq=uniform&variant=41591159423076)
       * [kitchenaid](https://www.kitchenaid.fr/robots-patissiers/midi/859702301230/robot-patissier-a-tete-inclinable-48l-artisan-premium-5ksm185ps-pomme-damour)
       * [smeg toaster](https://www.smeg.com/products/TSF01BLEU)
     * eau gazeuse
@@ -575,6 +579,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [serax](https://serax.com/fr/collections/couverts-couteaux)
         * [gense](https://www.gensestore.com/eu/products/cutlery/)
         * [sabre](https://sabre-paris.com)
+        * [gestura](https://www.chefknivestogo.com/search-results.html?query=gestura&x=0&y=0&vwcatalog=chefknivestogo)
       * vaisselle
         * [kinto](https://kinto-europe.com/collections/tableware)
         * [tabaya](https://tabaya-unitedarrows.com/en-fr)
@@ -592,6 +597,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [manamo](https://www.manamo.fr)
         * [home studyo](https://www.homestudyo.be/collections)
         * [hammerly ceramics](https://www.hammerlyceramics.com)
+        * [eggbackhome](https://eggbackhome.com/en-france)
       * couteau
         * info
           * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
@@ -659,6 +665,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Eames DCW](https://www.vitra.com/fr-fr/product/details/plywood-group-dcw)
     * [Tristan Lohner](https://www.tristanlohner.fr/product/event-chaise-v1/)
     * [ton merano](https://www.ton.eu/en/merano-chair-modern-classic)
+    * [dale duna](https://www.daleitalia.com/en/products/duna)
   * etagere
     * [vitsoe](https://www.vitsoe.com/eu/606)
     * [usm](https://www.usm.com/en/office/homepage)
@@ -682,6 +689,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [Marlot Baus - foggia](https://marlotbaus.com/en/products/foggia-coffee-table)
     * [Marlot Baus - cinzia](https://marlotbaus.com/en/products/cinzia-coffe-table)
     * [metallbude](https://metallbude.com/en/collections/living-room/products/cut-coffee-table)
+    * [porventura soften](https://www.porventura.eu/collections/tables/products/soften-6)
   * banc
     * [museum Giulio Lazzotti](https://www.infinitidesign.it/en/product/museum/)
   * table de chevet
@@ -789,6 +797,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
     * [son tapis](https://www.son-tapis.com)
     * [Maison Chaix](https://www.maisonchaix.fr)
     * [perennials](https://www.perennialsfabrics.com/fr/products/rugs/)
+    * [cc-tapis](https://cc-tapis.com)
   * salle de bain
     * [vascoplan](https://www.vascoplan.com/fr/contenu/14-krion#)
     * [kast](https://kastconcretebasins.com)
@@ -1105,6 +1114,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
       * [Matt Horne](https://www.matthornepottery.co.uk)
       * [Barbara Lormelle](https://www.barbaralormelle.com/)
       * [Angela Ly](https://www.alyceramics.com/galerie)
+      * [En Iwamura](https://www.en-iwamura.com/works)
     * textile
       * [sosaku](https://sosakujapan.com)
       * [vangart](https://vangart.fr)
