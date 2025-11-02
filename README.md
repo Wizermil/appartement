@@ -598,6 +598,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [home studyo](https://www.homestudyo.be/collections)
         * [hammerly ceramics](https://www.hammerlyceramics.com)
         * [eggbackhome](https://eggbackhome.com/en-france)
+        * [Maison Wabi-Sabi](https://www.maisonwabisabi.com/)
       * couteau
         * info
           * [Japanese Knife Steel Types](https://hasuseizo.com/pages/material-types)
@@ -1159,6 +1160,7 @@ De nombreux liens que j'ai glanés pour vous aider à mieux connaître mes préf
         * [Ken Kurojiro](https://www.ken-kurojiro.com)
         * [Johanne Bossmann](https://www.etsy.com/de/shop/JohanneBossmann)
         * [formworks](https://www.formworksstudio.co.uk)
+        * [Ricky Lee Gordon](https://www.rickyleegordon.com/selected-works-portfolio)
       * volume
         * [Kristof Montens](https://www.montens.be)
         * [Sylvain Piget](https://www.pigetart.com)
