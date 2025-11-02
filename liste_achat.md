@@ -126,6 +126,7 @@
 | prise sol            | [lithoss](https://www.lithoss.be/en/arpi)                                                                                                                      |                                                                                                                                                                  |           |
 | prise sol            | [hager](https://hager.com/fr-ch/news/boite-de-sol-ip66)                                                                                                        |                                                                                                                                                                  |           |
 | prise sol            | [legrand](https://www.legrand.fr/catalogue/prise-electrique/kit-prise-de-sol-et-plan-de-travail-inox-etanche-ip44-avec-clapet-de-protection-boite-a-encastrer) |                                                                                                                                                                  |           |
+| rideaux              | [silentgliss](https://www.silentgliss.fr/frfr/produits/view/curtain-systems/)                                                                                  |                                                                                                                                                                  |           |
 
 ### R1
 
