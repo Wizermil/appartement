@@ -23,6 +23,7 @@
 | Nom             | Fabricant                           | Revendeur                                                                                                                      | Reference    |
 |:----------------|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------|
 | Mitigeur Lavabo | [sanycces](https://sanycces.es/fr/) | [vascoplan](https://www.vascoplan.com/fr/p/392-mitigeur-a-fixer-au-mur-loop-k-mural-nickel-brosse-sanycces-8435315575462.html) | LOOP K mural |
+| Mitigeur Lavabo | [lusso](https://www.lussostone.com/products/luxe-brushed-stainless-wall-hung-basin-mixer-tap-v1?variant=47137554366714) | | |
 | Mitigeur Lavabo | [dornbracht](https://www.dornbracht.com/fr-fr/produits/36860664-00/meta-pure-mitigeur-monocommande-de-lavabo-mural-sans-garniture-d%e2%80%99%c3%a9coulement) | [leroymerlin](https://www.leroymerlin.fr/produits/dornbracht-meta-pure-melangeur-monocommande-mural-pour-lavabo-sans-vidage-saillie-190-mm-bec-fixe-36860664-00-farbe-chrome-92786464.html?megaBoost)                                                                 | META META PURE Mitigeur monocommande                                                                     |           |
 | Mitigeur Lavabo | [betonparnature](https://betonparnature.fr/en/collections/bondes-et-accessoires/products/robinet-mural-encastrable-br-b-inox-brosse-b-br-br) | |
 | Mitigeur Lavabo | sensial                                                                                                                        | [handleshopcouture](https://handleshopcouture.com/products/sensial-wall-mounted-knurled-brass-bathroom-faucet) |              |
@@ -87,7 +88,6 @@
 | camera         | [Ubiquiti](https://eu.store.ui.com/eu/en/category/cameras-theta/collections/pro-ai-theta-kits/products/uvc-ai-theta-pro?variant=uvc-ai-theta-pro)   |           | theta pro 360 |
 | cable hdmi     | [fibercommand](https://shop.fibercommand.com/products/purefiber-ultravision-hdmi-2-1-48gbps-4k120hz-8k60hz-hdr-bundle-cable?variant=40003608117290) |           |               |
 | cable hdmi     | [ruipro](https://ruipro.store/collections/all/products/8k-hdmi-fiber-cable-cl2-rated)                                                               |           |               |
-| cable ethernet | []()                                                                                                                                                |           |               |
 
 ### Electromenager
 
